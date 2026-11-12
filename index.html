@@ -1,0 +1,472 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Il mio Letterboxd · @francebove</title>
+<meta name="description" content="Statistiche personali del mio diario di cinema su Letterboxd.">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<main id="dash-root">
+<div class="lb">
+  <header class="lb-head" id="sintesi">
+    <p class="lb-eyebrow">Diario di cinema · @francebove</p>
+    <h1 class="lb-title">Il mio Letterboxd<span class="lb-star"> ★</span></h1>
+    <p class="lb-take">Hai visto <b data-draw="v" data-source="riepilogo" data-field="visti" data-row="0" data-fmt="int" class="dash-skeleton">—</b> film e ne hai votati <b data-draw="v" data-source="riepilogo" data-field="votati" data-row="0" data-fmt="int" class="dash-skeleton">—</b>, con un voto medio di <b data-draw="v" data-source="riepilogo" data-field="media" data-row="0" data-fmt="dec1" class="dash-skeleton">—</b>★. Il tuo regista del cuore è <b data-draw="v" data-source="identikit" data-field="regista_top" data-row="0" data-fmt="text" class="dash-skeleton">—</b>; ai classici dai in media <b data-draw="v" data-source="identikit" data-field="classici_media" data-row="0" data-fmt="dec1">—</b>★, ai film recenti <b data-draw="v" data-source="identikit" data-field="recenti_media" data-row="0" data-fmt="dec1">—</b>★.
+      <span class="lb-giu">Oggi sei anche più severo di quando li hai visti: rispetto alla prima visione nel diario, il voto attuale è in media <b data-draw="v" data-source="riepilogo" data-field="delta_medio" data-row="0" data-fmt="signed">—</b>★.</span><span class="lb-su" hidden>Oggi sei anche più generoso di quando li hai visti: rispetto alla prima visione nel diario, il voto attuale è in media <b data-draw="v" data-source="riepilogo" data-field="delta_medio" data-row="0" data-fmt="signed">—</b>★.</span></p>
+  </header>
+
+  <nav class="lb-tabs" role="tablist" aria-label="Sezioni">
+    <button class="lb-tab" role="tab" type="button" data-tab="panoramica" aria-selected="true">Panoramica</button>
+    <button class="lb-tab" role="tab" type="button" data-tab="anno" aria-selected="false">Il tuo anno</button>
+    <button class="lb-tab" role="tab" type="button" data-tab="gusti" aria-selected="false">Gusti</button>
+    <button class="lb-tab" role="tab" type="button" data-tab="saghe" aria-selected="false">Saghe e classici</button>
+    <button class="lb-tab" role="tab" type="button" data-tab="diario" aria-selected="false">Diario</button>
+    <button class="lb-tab" role="tab" type="button" data-tab="watchlist" aria-selected="false">Watchlist</button>
+    <button class="lb-tab" role="tab" type="button" data-tab="collezione" aria-selected="false">Collezione</button>
+    <button class="lb-tab" role="tab" type="button" data-tab="archivio" aria-selected="false">Archivio</button>
+  </nav>
+
+  <!-- ================= PANORAMICA ================= -->
+  <section class="lb-page" id="panoramica" role="tabpanel">
+    <header class="lb-page-head"><p class="lb-page-eyebrow">01 · Panoramica</p><h2 class="lb-page-title">Il quadro generale</h2></header>
+    <div class="lb-tiles" id="numeri">
+      <div class="lb-tile"><span class="lb-tile-label">Visioni nel diario</span><span class="lb-tile-value dash-skeleton" data-draw="v" data-source="riepilogo" data-field="diario" data-row="0" data-fmt="int">—</span><span class="lb-tile-spark" data-draw="spark" data-source="diario_mensile"></span></div>
+      <div class="lb-tile"><span class="lb-tile-label">Rewatch</span><span class="lb-tile-value dash-skeleton" data-draw="v" data-source="riepilogo" data-field="rewatch" data-row="0" data-fmt="int">—</span></div>
+      <div class="lb-tile"><span class="lb-tile-label">Film da 5★</span><span class="lb-tile-value dash-skeleton" data-draw="v" data-source="riepilogo" data-field="cinque" data-row="0" data-fmt="int">—</span></div>
+      <div class="lb-tile"><span class="lb-tile-label">Film con il cuore</span><span class="lb-tile-value dash-skeleton" data-draw="v" data-source="riepilogo" data-field="cuori" data-row="0" data-fmt="int">—</span></div>
+      <div class="lb-tile"><span class="lb-tile-label">Recensioni</span><span class="lb-tile-value dash-skeleton" data-draw="v" data-source="riepilogo" data-field="recensioni" data-row="0" data-fmt="int">—</span></div>
+      <div class="lb-tile"><span class="lb-tile-label">In watchlist</span><span class="lb-tile-value dash-skeleton" data-draw="v" data-source="riepilogo" data-field="watchlist" data-row="0" data-fmt="int">—</span></div>
+    </div>
+
+    <div class="lb-section" id="identikit">
+      <h2 class="lb-h2">Il tuo identikit da spettatore</h2>
+      <div class="lb-ids">
+        <div class="lb-id">
+          <span class="lb-id-label">Regista del cuore</span>
+          <span class="lb-id-value dash-skeleton" data-draw="v" data-source="identikit" data-field="regista_top" data-row="0" data-fmt="text">—</span>
+          <p class="lb-id-detail"><b data-draw="v" data-source="identikit" data-field="regista_top_film" data-row="0" data-fmt="int">—</b> film, media <b data-draw="v" data-source="identikit" data-field="regista_top_media" data-row="0" data-fmt="dec1">—</b>★. Il voto medio più alto tra i registi con almeno <b data-draw="v" data-source="identikit" data-field="soglia_regista" data-row="0" data-fmt="int">—</b> film votati.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Il regista che guardi di più</span>
+          <span class="lb-id-value dash-skeleton" data-draw="v" data-source="identikit" data-field="regista_piu" data-row="0" data-fmt="text">—</span>
+          <p class="lb-id-detail"><b data-draw="v" data-source="identikit" data-field="regista_piu_film" data-row="0" data-fmt="int">—</b> film visti, media <b data-draw="v" data-source="identikit" data-field="regista_piu_media" data-row="0" data-fmt="dec1">—</b>★.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Genere preferito</span>
+          <span class="lb-id-value dash-skeleton" data-draw="v" data-source="identikit" data-field="genere_top" data-row="0" data-fmt="text">—</span>
+          <p class="lb-id-detail">Media <b data-draw="v" data-source="identikit" data-field="genere_top_media" data-row="0" data-fmt="dec1">—</b>★ su <b data-draw="v" data-source="identikit" data-field="genere_top_film" data-row="0" data-fmt="int">—</b> film, tra i generi con almeno <b data-draw="v" data-source="identikit" data-field="soglia_genere" data-row="0" data-fmt="int">—</b> film.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Il genere che ti convince meno</span>
+          <span class="lb-id-value dash-skeleton" data-draw="v" data-source="identikit" data-field="genere_flop" data-row="0" data-fmt="text">—</span>
+          <p class="lb-id-detail">Media <b data-draw="v" data-source="identikit" data-field="genere_flop_media" data-row="0" data-fmt="dec1">—</b>★ su <b data-draw="v" data-source="identikit" data-field="genere_flop_film" data-row="0" data-fmt="int">—</b> film.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Classici contro recenti</span>
+          <span class="lb-id-value"><span class="dash-skeleton" data-draw="v" data-source="identikit" data-field="classici_media" data-row="0" data-fmt="dec1">—</span>★ vs <span class="dash-skeleton" data-draw="v" data-source="identikit" data-field="recenti_media" data-row="0" data-fmt="dec1">—</span>★</span>
+          <p class="lb-id-detail">Voto medio dei film usciti prima del <b data-draw="v" data-source="identikit" data-field="anno_classici" data-row="0" data-fmt="year">—</b> contro quelli usciti dal <b data-draw="v" data-source="identikit" data-field="anno_recenti" data-row="0" data-fmt="year">—</b> in poi.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Decennio d'oro</span>
+          <span class="lb-id-value">Anni <span class="dash-skeleton" data-draw="v" data-source="identikit" data-field="decennio_top" data-row="0" data-fmt="year">—</span></span>
+          <p class="lb-id-detail">Media <b data-draw="v" data-source="identikit" data-field="decennio_top_media" data-row="0" data-fmt="dec1">—</b>★ su <b data-draw="v" data-source="identikit" data-field="decennio_top_film" data-row="0" data-fmt="int">—</b> film votati.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Cinema italiano</span>
+          <span class="lb-id-value dash-skeleton" data-draw="v" data-source="identikit" data-field="italia_quota" data-row="0" data-fmt="pct">—</span>
+          <p class="lb-id-detail">dei film visti: <b data-draw="v" data-source="identikit" data-field="italia_film" data-row="0" data-fmt="int">—</b> film, media <b data-draw="v" data-source="identikit" data-field="italia_media" data-row="0" data-fmt="dec1">—</b>★.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Il film che rivedi di più</span>
+          <span class="lb-id-value dash-skeleton" data-draw="v" data-source="piu_rivisti" data-field="film" data-row="0" data-fmt="text">—</span>
+          <p class="lb-id-detail"><b data-draw="v" data-source="piu_rivisti" data-field="visioni" data-row="0" data-fmt="int">—</b> visioni nel diario, ultimo voto <b data-draw="v" data-source="piu_rivisti" data-field="ultimo_voto" data-row="0" data-fmt="dec1">—</b>★.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Film diretti da donne</span>
+          <span class="lb-id-value dash-skeleton" data-draw="v" data-source="identikit" data-field="donne_quota" data-row="0" data-fmt="pct">—</span>
+          <p class="lb-id-detail">dei film visti: <b data-draw="v" data-source="identikit" data-field="donne_film" data-row="0" data-fmt="int">—</b> film, media <b data-draw="v" data-source="identikit" data-field="donne_media" data-row="0" data-fmt="dec1">—</b>★.</p>
+        </div>
+        <div class="lb-id">
+          <span class="lb-id-label">Classici della critica</span>
+          <span class="lb-id-value"><span class="dash-skeleton" data-draw="v" data-source="classici_sintesi" data-field="visti" data-row="0" data-fmt="int">—</span> su <span data-draw="v" data-source="classici_sintesi" data-field="totale" data-row="0" data-fmt="int">—</span></span>
+          <p class="lb-id-detail">della top 50 di Sight and Sound 2022 già visti, media <b data-draw="v" data-source="classici_sintesi" data-field="media" data-row="0" data-fmt="dec1">—</b>★.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="lb-grid">
+      <div class="lb-card lb-wide" id="ogni-film">
+        <h3 class="lb-card-title">Ogni film che hai votato</h3>
+        <p class="lb-note">Un punto per film: anno di uscita e voto attuale. La linea segue il voto medio di ogni decennio.</p>
+        <div class="lb-legend"><span><i class="lb-sw-dot lb-c0"></i>Film</span><span><i class="lb-sw lb-c2"></i>Media del decennio</span></div>
+        <div class="lb-chart dash-skeleton" data-draw="scatter-anni" data-source="visti_info per_decennio"></div>
+      </div>
+      <div class="lb-card" id="distribuzione">
+        <h3 class="lb-card-title">Distribuzione dei voti</h3>
+        <p class="lb-note">Quanti film hai per ogni voto, considerando il voto attuale.</p>
+        <div class="lb-chart dash-skeleton" data-draw="hist" data-source="distribuzione_voti"></div>
+      </div>
+      <div class="lb-card" id="ripensamenti">
+        <h3 class="lb-card-title">Voto a caldo e voto di oggi</h3>
+        <p class="lb-note">I <b data-draw="const" data-const="TOP_CAMBI">—</b> film su cui hai cambiato idea di più: il cerchio vuoto è il voto della prima visione nel diario, il punto pieno è il voto di oggi.</p>
+        <div class="lb-legend"><span><i class="lb-sw-ring"></i>Diario</span><span><i class="lb-sw-dot lb-c0"></i>Oggi</span></div>
+        <div class="lb-chart lb-chart-dumb dash-skeleton" data-draw="dumbbell" data-source="cambi_voto"></div>
+      </div>
+      <div class="lb-card" id="top4">
+        <h3 class="lb-card-title">I quattro del profilo</h3>
+        <p class="lb-note">I preferiti che mostri sul profilo, con il voto attuale.</p>
+        <div class="lb-tablebox">
+          <table class="lb-table" data-source="preferiti" data-row-key="posizione">
+            <thead><tr><th data-field="posizione">#</th><th data-field="film">Film</th><th data-field="anno" class="lb-num">Anno</th><th data-field="voto">Voto</th></tr></thead>
+            <tbody data-draw="t-preferiti"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="lb-card" id="cinque-stelle">
+        <h3 class="lb-card-title">Film da 5 stelle</h3>
+        <p class="lb-note">Tutti i film che oggi hanno il voto pieno, dal più vecchio al più recente.</p>
+        <div class="lb-tablebox lb-tablebox-short">
+          <table class="lb-table" data-source="visti_info" data-row-key="Letterboxd URI">
+            <thead><tr><th data-field="film">Film</th><th data-field="regista" class="lb-hide-narrow">Regista</th><th data-field="anno" class="lb-num">Anno</th></tr></thead>
+            <tbody data-draw="t-cinque"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= IL TUO ANNO ================= -->
+  <section class="lb-page" id="anno" role="tabpanel" hidden>
+    <header class="lb-page-head"><p class="lb-page-eyebrow">02 · Il tuo anno</p><h2 class="lb-page-title">Il tuo <span data-draw="v" data-source="anno_review" data-field="anno" data-row="0" data-fmt="year">—</span> al cinema</h2></header>
+    <p class="lb-lead">Il riepilogo dell'anno in corso, sul modello del Year in Review di Letterboxd, calcolato dal tuo diario (senza l'importazione in blocco iniziale).</p>
+
+    <div class="lb-wrapped" id="anno-numeri">
+      <div class="lb-big"><span class="lb-big-label">Film nel diario</span><span class="lb-big-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="film" data-row="0" data-fmt="int">—</span><p class="lb-big-sub"><b data-draw="v" data-source="anno_review" data-field="prime_visioni" data-row="0" data-fmt="int">—</b> prime visioni, <b data-draw="v" data-source="anno_review" data-field="rewatch" data-row="0" data-fmt="int">—</b> rewatch</p></div>
+      <div class="lb-big"><span class="lb-big-label">Voto medio</span><span class="lb-big-value"><span data-draw="v" data-source="anno_review" data-field="media" data-row="0" data-fmt="dec1">—</span>★</span><p class="lb-big-sub"><b data-draw="v" data-source="anno_review" data-field="cinque" data-row="0" data-fmt="int">—</b> film da 5 stelle</p></div>
+      <div class="lb-big"><span class="lb-big-label">Al cinema</span><span class="lb-big-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="al_cinema" data-row="0" data-fmt="int">—</span><p class="lb-big-sub">film visti in sala, dalla tua lista</p></div>
+      <div class="lb-big"><span class="lb-big-label">Serie più lunga</span><span class="lb-big-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="serie" data-row="0" data-fmt="int">—</span><p class="lb-big-sub">giorni di fila con almeno un film, dal <b data-draw="v" data-source="anno_review" data-field="serie_inizio" data-row="0" data-fmt="date">—</b></p></div>
+      <div class="lb-big"><span class="lb-big-label">Recensioni</span><span class="lb-big-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="recensioni" data-row="0" data-fmt="int">—</span><p class="lb-big-sub">scritte quest'anno</p></div>
+    </div>
+
+    <div class="lb-moments" id="anno-momenti">
+      <div class="lb-moment"><span class="lb-moment-label">Settimana record</span><span class="lb-moment-value"><span data-draw="v" data-source="anno_review" data-field="settimana_film" data-row="0" data-fmt="int">—</span> film</span><p class="lb-moment-sub">nella settimana del <b data-draw="v" data-source="anno_review" data-field="settimana_inizio" data-row="0" data-fmt="date">—</b></p></div>
+      <div class="lb-moment"><span class="lb-moment-label">Il tuo giorno</span><span class="lb-moment-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="giorno" data-row="0" data-fmt="text">—</span><p class="lb-moment-sub"><b data-draw="v" data-source="anno_review" data-field="giorno_film" data-row="0" data-fmt="int">—</b> film visti di quel giorno</p></div>
+      <div class="lb-moment"><span class="lb-moment-label">Il mese più pieno</span><span class="lb-moment-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="mese" data-row="0" data-fmt="month">—</span><p class="lb-moment-sub"><b data-draw="v" data-source="anno_review" data-field="mese_film" data-row="0" data-fmt="int">—</b> film</p></div>
+      <div class="lb-moment"><span class="lb-moment-label">Primo film dell'anno</span><span class="lb-moment-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="primo" data-row="0" data-fmt="text">—</span><p class="lb-moment-sub"><b data-draw="v" data-source="anno_review" data-field="primo_data" data-row="0" data-fmt="date">—</b></p></div>
+      <div class="lb-moment"><span class="lb-moment-label">Ultimo film visto</span><span class="lb-moment-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="ultimo" data-row="0" data-fmt="text">—</span><p class="lb-moment-sub"><b data-draw="v" data-source="anno_review" data-field="ultimo_data" data-row="0" data-fmt="date">—</b></p></div>
+      <div class="lb-moment"><span class="lb-moment-label">Il più vecchio</span><span class="lb-moment-value dash-skeleton" data-draw="v" data-source="anno_review" data-field="vecchio" data-row="0" data-fmt="text">—</span><p class="lb-moment-sub">uscito nel <b data-draw="v" data-source="anno_review" data-field="vecchio_anno" data-row="0" data-fmt="year">—</b></p></div>
+    </div>
+
+    <div class="lb-grid">
+      <div class="lb-card lb-wide" id="traguardi">
+        <h3 class="lb-card-title">Traguardi dell'anno</h3>
+        <p class="lb-note">Un traguardo ogni <b data-draw="v" data-source="traguardi" data-field="passo" data-row="0" data-fmt="int">—</b> film nel diario dell'anno: quale film ha segnato ogni traguardo, e quando.</p>
+        <div class="lb-timeline dash-skeleton" data-draw="traguardi" data-source="traguardi"></div>
+      </div>
+      <div class="lb-card" id="anno-decenni">
+        <h3 class="lb-card-title">Di che epoca erano</h3>
+        <p class="lb-note">I film visti quest'anno per decennio di uscita.</p>
+        <div class="lb-chart dash-skeleton" data-draw="anno-decenni" data-source="anno_decenni"></div>
+      </div>
+      <div class="lb-card" id="anno-top">
+        <h3 class="lb-card-title">I migliori dell'anno</h3>
+        <p class="lb-note">Le prime visioni dell'anno con il voto più alto nel diario.</p>
+        <div class="lb-tablebox">
+          <table class="lb-table" data-source="anno_top" data-row-key="film,anno">
+            <thead><tr><th>#</th><th data-field="film">Film</th><th data-field="anno" class="lb-num">Anno</th><th data-field="voto">Voto</th></tr></thead>
+            <tbody data-draw="t-anno-top"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= GUSTI ================= -->
+  <section class="lb-page" id="gusti" role="tabpanel" hidden>
+    <header class="lb-page-head"><p class="lb-page-eyebrow">03 · Gusti</p><h2 class="lb-page-title">Cosa ti piace davvero</h2></header>
+    <p class="lb-disclaimer">Registi, generi e paesi non sono nell'export di Letterboxd: li ha compilati Claude film per film, quindi qualche dato può essere sbagliato. Ogni film ha un solo genere, quello prevalente, e un solo paese, quello di produzione principale. I film non identificati restano fuori da queste analisi.</p>
+
+    <div class="lb-grid">
+      <div class="lb-card lb-wide" id="registi">
+        <h3 class="lb-card-title">I tuoi registi</h3>
+        <p class="lb-note">Registi con almeno <b data-draw="const" data-const="MIN_REG">—</b> film votati, dal voto medio più alto. "Il migliore" è il loro film a cui oggi dai il voto più alto.</p>
+        <div class="lb-tablebox">
+          <table class="lb-table" data-source="registi" data-row-key="regista">
+            <thead><tr><th data-field="regista">Regista</th><th data-field="film" class="lb-num">Film</th><th data-field="media">Voto medio</th><th data-field="migliore" class="lb-hide-narrow">Il migliore</th></tr></thead>
+            <tbody data-draw="t-registi"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="lb-card" id="generi">
+        <h3 class="lb-card-title">Voto medio per genere</h3>
+        <p class="lb-note">Accanto a ogni barra, quanti film hai visto di quel genere.</p>
+        <div class="lb-chart lb-chart-auto dash-skeleton" data-draw="generi" data-source="generi"></div>
+      </div>
+      <div class="lb-card lb-wide" id="mappa-generi">
+        <h3 class="lb-card-title">Genere per decennio</h3>
+        <p class="lb-note">Voto medio per genere e decennio di uscita: più la casella è piena, più alto è il voto. Righe ordinate per numero di film.</p>
+        <div class="lb-heat dash-skeleton" data-draw="heatmap" data-source="genere_decennio"></div>
+      </div>
+      <div class="lb-card" id="ripensamenti-genere">
+        <h3 class="lb-card-title">Dove hai cambiato idea</h3>
+        <p class="lb-note">Differenza media tra voto di oggi e voto della prima visione nel diario, per genere. A sinistra i generi che oggi ti piacciono meno. Solo generi con almeno <b data-draw="const" data-const="MIN_CONF">—</b> film confrontabili.</p>
+        <div class="lb-chart lb-chart-auto dash-skeleton" data-draw="generi-cambio" data-source="generi"></div>
+      </div>
+      <div class="lb-card" id="paesi">
+        <h3 class="lb-card-title">Paesi</h3>
+        <p class="lb-note">Film visti e voto medio per paese di produzione.</p>
+        <div class="lb-tablebox lb-tablebox-short">
+          <table class="lb-table" data-source="paesi" data-row-key="paese">
+            <thead><tr><th data-field="paese">Paese</th><th data-field="film" class="lb-num">Film</th><th data-field="media">Voto medio</th></tr></thead>
+            <tbody data-draw="t-paesi"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="lb-card" id="decenni-voto">
+        <h3 class="lb-card-title">Voto medio per decennio di uscita</h3>
+        <p class="lb-note">Solo i decenni con almeno <b data-draw="const" data-const="MIN_DEC">—</b> film votati.</p>
+        <div class="lb-chart dash-skeleton" data-draw="dec-media" data-source="per_decennio"></div>
+      </div>
+      <div class="lb-card" id="decenni">
+        <h3 class="lb-card-title">Film visti per decennio di uscita</h3>
+        <p class="lb-note">Tutti i film segnati come visti, per anno di uscita.</p>
+        <div class="lb-chart dash-skeleton" data-draw="dec-visti" data-source="per_decennio"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= SAGHE ================= -->
+  <section class="lb-page" id="saghe" role="tabpanel" hidden>
+    <header class="lb-page-head"><p class="lb-page-eyebrow">04 · Saghe e classici</p><h2 class="lb-page-title">Le saghe e i grandi classici</h2></header>
+    <p class="lb-lead">Hai completato <b data-draw="v" data-source="saghe_sintesi" data-field="completate" data-row="0" data-fmt="int">—</b> saghe su <b data-draw="v" data-source="saghe_sintesi" data-field="totale" data-row="0" data-fmt="int">—</b>, ne hai <b data-draw="v" data-source="saghe_sintesi" data-field="in_corso" data-row="0" data-fmt="int">—</b> in corso e <b data-draw="v" data-source="saghe_sintesi" data-field="da_iniziare" data-row="0" data-fmt="int">—</b> ancora da iniziare. In tutto hai visto <b data-draw="v" data-source="saghe_sintesi" data-field="film_visti" data-row="0" data-fmt="int">—</b> dei <b data-draw="v" data-source="saghe_sintesi" data-field="film_totali" data-row="0" data-fmt="int">—</b> film di queste saghe.</p>
+    <p class="lb-disclaimer">L'elenco unisce le classifiche delle migliori trilogie di GamesRadar (32) e /Film (15) con le saghe che compaiono nei tuoi film; i film di ogni saga li ha compilati Claude. Un film conta come visto se è tra i tuoi film visti su Letterboxd.</p>
+
+    <div class="lb-grid">
+      <div class="lb-card lb-wide" id="classici">
+        <h3 class="lb-card-title">La top 50 di Sight and Sound</h3>
+        <p class="lb-note">I 50 film più votati dalla critica nel sondaggio Sight and Sound 2022, in ordine di classifica. Ne hai visti <b data-draw="v" data-source="classici_sintesi" data-field="visti" data-row="0" data-fmt="int">—</b> e <b data-draw="v" data-source="classici_sintesi" data-field="in_watchlist" data-row="0" data-fmt="int">—</b> sono in watchlist.</p>
+        <div class="lb-progress"><span class="lb-progress-fill" data-draw="progress" data-source="classici_sintesi" data-field="quota" data-row="0"></span></div>
+        <div class="lb-grid-tiles dash-skeleton" data-draw="classici-tiles" data-source="classici_film"></div>
+      </div>
+      <div class="lb-card lb-wide" id="tabellone-saghe">
+        <h3 class="lb-card-title">Tutte le saghe, film per film</h3>
+        <p class="lb-note">Ogni casella è un film, in ordine di uscita: piena e con il tuo voto se l'hai visto (più è intensa, più è alto il voto), tratteggiata se è in watchlist, vuota se non l'hai ancora visto.</p>
+        <div class="lb-controls">
+          <span class="lb-ctl-label">Mostra</span>
+          <button type="button" class="lb-chip lb-saga-filter" data-filter="tutte" aria-pressed="true">Tutte</button>
+          <button type="button" class="lb-chip lb-saga-filter" data-filter="Completata" aria-pressed="false">Completate</button>
+          <button type="button" class="lb-chip lb-saga-filter" data-filter="In corso" aria-pressed="false">In corso</button>
+          <button type="button" class="lb-chip lb-saga-filter" data-filter="Da iniziare" aria-pressed="false">Da iniziare</button>
+          <span class="lb-spacer"></span>
+          <label class="lb-ctl-label" for="lb-saga-sort">Ordina per</label>
+          <select id="lb-saga-sort" class="lb-select lb-saga-sort">
+            <option value="voto">Voto medio</option>
+            <option value="completamento">Completamento</option>
+            <option value="nome">Nome</option>
+          </select>
+        </div>
+        <div class="lb-legend">
+          <span class="lb-key"><i class="lb-t lb-key-1">1</i><i class="lb-t lb-key-3">3</i><i class="lb-t lb-key-5">5</i> Visto, con voto</span>
+          <span class="lb-key"><i class="lb-t lb-t-wl">+</i> In watchlist</span>
+          <span class="lb-key"><i class="lb-t lb-t-todo">·</i> Da vedere</span>
+        </div>
+        <div class="lb-board dash-skeleton" data-draw="saghe-board" data-source="saghe saghe_film"></div>
+      </div>
+      <div class="lb-card" id="saghe-mappa">
+        <h3 class="lb-card-title">Quanto le hai finite, quanto ti piacciono</h3>
+        <p class="lb-note">Le saghe iniziate: completamento e voto medio dei film visti. Più grande il punto, più film ha la saga.</p>
+        <div class="lb-legend"><span><i class="lb-sw-dot lb-c0"></i>Completata</span><span><i class="lb-sw-dot lb-c3"></i>In corso</span></div>
+        <div class="lb-chart dash-skeleton" data-draw="saghe-scatter" data-source="saghe"></div>
+      </div>
+      <div class="lb-card" id="saghe-prossimi">
+        <h3 class="lb-card-title">Il prossimo film da vedere</h3>
+        <p class="lb-note">Per ogni saga in corso, il primo film che ti manca, dalle saghe che voti meglio.</p>
+        <div class="lb-tablebox">
+          <table class="lb-table" data-source="saghe" data-row-key="saga">
+            <thead><tr><th data-field="saga">Saga</th><th data-field="prossimo">Prossimo</th><th data-field="media" class="lb-num">Media</th><th data-field="visti" class="lb-num lb-hide-narrow">Visti</th></tr></thead>
+            <tbody data-draw="t-prossimi"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= DIARIO ================= -->
+  <section class="lb-page" id="diario" role="tabpanel" hidden>
+    <header class="lb-page-head"><p class="lb-page-eyebrow">05 · Diario</p><h2 class="lb-page-title">Come e quando guardi</h2></header>
+    <p class="lb-lead">Il diario racconta cosa guardi davvero e quando. Esclusa l'importazione in blocco dei film già visti: <b data-draw="v" data-source="importazioni" data-field="film" data-row="0" data-fmt="int">—</b> film registrati il <b data-draw="v" data-source="importazioni" data-field="giorno" data-row="0" data-fmt="date">—</b>.</p>
+    <div class="lb-grid">
+      <div class="lb-card lb-wide" id="mesi">
+        <h3 class="lb-card-title">Visioni per mese</h3>
+        <p class="lb-note">Prime visioni e rewatch per data di visione.</p>
+        <div class="lb-legend"><span><i class="lb-sw lb-c0"></i>Prima visione</span><span><i class="lb-sw lb-c1"></i>Rewatch</span></div>
+        <div class="lb-chart dash-skeleton" data-draw="mesi" data-source="diario_mensile"></div>
+      </div>
+      <div class="lb-card lb-wide" id="calendario">
+        <h3 class="lb-card-title">Il tuo anno di cinema</h3>
+        <p class="lb-note">Ogni casella è un giorno degli ultimi 12 mesi: più è piena, più film hai visto quel giorno.</p>
+        <div class="lb-cal dash-skeleton" data-draw="calendario" data-source="diario_giorni"></div>
+      </div>
+      <div class="lb-card" id="voto-mensile">
+        <h3 class="lb-card-title">Il voto del momento</h3>
+        <p class="lb-note">Voto medio dato nel diario subito dopo la visione, mese per mese.</p>
+        <div class="lb-chart dash-skeleton" data-draw="voto-mensile" data-source="voto_mensile"></div>
+      </div>
+      <div class="lb-card" id="classici-trimestre">
+        <h3 class="lb-card-title">Quanti classici guardi</h3>
+        <p class="lb-note">Per trimestre, la quota di film del diario usciti prima del <b data-draw="v" data-source="eta_trimestre" data-field="prima_di" data-row="0" data-fmt="year">—</b>. Nel tooltip l'anno di uscita mediano.</p>
+        <div class="lb-chart dash-skeleton" data-draw="classici" data-source="eta_trimestre"></div>
+      </div>
+      <div class="lb-card" id="settimana">
+        <h3 class="lb-card-title">Il giorno del film</h3>
+        <p class="lb-note">Visioni del diario per giorno della settimana.</p>
+        <div class="lb-chart dash-skeleton" data-draw="settimana" data-source="giorni_settimana"></div>
+      </div>
+      <div class="lb-card lb-wide" id="rivisti">
+        <h3 class="lb-card-title">I più rivisti</h3>
+        <p class="lb-note">Film con almeno due visioni nel diario, con il voto dell'ultima.</p>
+        <div class="lb-tablebox lb-tablebox-short">
+          <table class="lb-table" data-source="piu_rivisti" data-row-key="film,anno">
+            <thead><tr><th data-field="film">Film</th><th data-field="anno" class="lb-num">Anno</th><th data-field="visioni" class="lb-num">Visioni</th><th data-field="ultimo_voto">Ultimo voto</th></tr></thead>
+            <tbody data-draw="t-rivisti"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= WATCHLIST ================= -->
+  <section class="lb-page" id="watchlist" role="tabpanel" hidden>
+    <header class="lb-page-head"><p class="lb-page-eyebrow">06 · Watchlist</p><h2 class="lb-page-title">Dove stai andando</h2></header>
+    <p class="lb-lead">La watchlist dice dove stai andando. Il <b data-draw="v" data-source="wl_sintesi" data-field="wl_classici" data-row="0" data-fmt="pct">—</b> dei film in attesa è uscito prima del <b data-draw="v" data-source="wl_sintesi" data-field="prima_di" data-row="0" data-fmt="year">—</b>, contro il <b data-draw="v" data-source="wl_sintesi" data-field="visti_classici" data-row="0" data-fmt="pct">—</b> dei film che hai già visto. Il cinema non americano passa dal <b data-draw="v" data-source="wl_sintesi" data-field="visti_estero" data-row="0" data-fmt="pct">—</b> al <b data-draw="v" data-source="wl_sintesi" data-field="wl_estero" data-row="0" data-fmt="pct">—</b>.</p>
+    <div class="lb-grid">
+      <div class="lb-card lb-wide" id="da-vedere-per-primi">
+        <h3 class="lb-card-title">Da vedere per primi</h3>
+        <p class="lb-note">Film in watchlist dei registi che premi di più: almeno <b data-draw="const" data-const="MIN_CONS">—</b> loro film già votati, ordinati per il voto medio che dai al regista. Ne mostro <b data-draw="const" data-const="N_CONS">—</b>, al massimo <b data-draw="const" data-const="MAX_PER_REG">—</b> per regista.</p>
+        <div class="lb-tablebox">
+          <table class="lb-table" data-source="wl_consigli" data-row-key="Letterboxd URI">
+            <thead><tr><th data-field="film">Film</th><th data-field="regista">Regista</th><th data-field="anno" class="lb-num">Anno</th><th data-field="media_regista">Media regista</th><th data-field="visti_regista" class="lb-num lb-hide-narrow">Già visti</th></tr></thead>
+            <tbody data-draw="t-consigli"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="lb-card" id="confronto-paesi">
+        <h3 class="lb-card-title">Paesi: visti e in watchlist</h3>
+        <p class="lb-note">Quota di film per paese in ciascuna lista.</p>
+        <div class="lb-legend"><span><i class="lb-sw lb-c0"></i>Visti</span><span><i class="lb-sw lb-c3"></i>Watchlist</span></div>
+        <div class="lb-chart lb-chart-auto dash-skeleton" data-draw="conf-paese" data-source="confronto"></div>
+      </div>
+      <div class="lb-card" id="confronto-generi">
+        <h3 class="lb-card-title">Generi: visti e in watchlist</h3>
+        <p class="lb-note">Quota di film per genere in ciascuna lista.</p>
+        <div class="lb-legend"><span><i class="lb-sw lb-c0"></i>Visti</span><span><i class="lb-sw lb-c3"></i>Watchlist</span></div>
+        <div class="lb-chart lb-chart-auto dash-skeleton" data-draw="conf-genere" data-source="confronto"></div>
+      </div>
+      <div class="lb-card" id="registi-attesi">
+        <h3 class="lb-card-title">I registi che vuoi scoprire</h3>
+        <p class="lb-note">Registi con più film in watchlist, accanto a quanti ne hai già visti e al voto medio che gli dai.</p>
+        <div class="lb-tablebox lb-tablebox-short">
+          <table class="lb-table" data-source="wl_registi" data-row-key="regista">
+            <thead><tr><th data-field="regista">Regista</th><th data-field="in_watchlist" class="lb-num">In lista</th><th data-field="visti" class="lb-num">Visti</th><th data-field="media_visti" class="lb-num">Media</th></tr></thead>
+            <tbody data-draw="t-wl-registi"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="lb-card" id="watchlist-decenni">
+        <h3 class="lb-card-title">Watchlist per decennio di uscita</h3>
+        <p class="lb-note">Cosa ti aspetta, per anno di uscita.</p>
+        <div class="lb-chart dash-skeleton" data-draw="wl-dec" data-source="watchlist_decenni"></div>
+      </div>
+      <div class="lb-card lb-wide" id="watchlist-recenti">
+        <h3 class="lb-card-title">Aggiunti di recente</h3>
+        <p class="lb-note">Gli ultimi <b data-draw="const" data-const="N_WL">—</b> film entrati in watchlist.</p>
+        <div class="lb-tablebox lb-tablebox-short">
+          <table class="lb-table" data-source="wl_info" data-row-key="Letterboxd URI">
+            <thead><tr><th data-field="film">Film</th><th data-field="regista" class="lb-hide-narrow">Regista</th><th data-field="anno" class="lb-num">Anno</th><th data-field="aggiunto" class="lb-num">Aggiunto</th></tr></thead>
+            <tbody data-draw="t-wl"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= COLLEZIONE ================= -->
+  <section class="lb-page" id="collezione" role="tabpanel" hidden>
+    <header class="lb-page-head"><p class="lb-page-eyebrow">07 · Collezione</p><h2 class="lb-page-title">Liste, Blu-ray e cuori</h2></header>
+
+    <div class="lb-section" id="liste">
+      <h3 class="lb-h2">Le tue liste</h3>
+      <div class="lb-lists dash-skeleton" data-draw="liste" data-source="liste_info"></div>
+    </div>
+
+    <div class="lb-grid">
+      <div class="lb-card lb-wide" id="scaffale">
+        <h3 class="lb-card-title">Lo scaffale dei Blu-ray</h3>
+        <p class="lb-note"><b data-draw="v" data-source="bluray_sintesi" data-field="film" data-row="0" data-fmt="int">—</b> dischi, voto medio <b data-draw="v" data-source="bluray_sintesi" data-field="media" data-row="0" data-fmt="dec1">—</b>★. Il regista più presente è <b data-draw="v" data-source="bluray_sintesi" data-field="regista_top" data-row="0" data-fmt="text">—</b> (<b data-draw="v" data-source="bluray_sintesi" data-field="regista_top_film" data-row="0" data-fmt="int">—</b> film). Ogni costa è un disco, in ordine di lista: più è alta e piena, più alto è il tuo voto.</p>
+        <div class="lb-shelf dash-skeleton" data-draw="scaffale" data-source="bluray"></div>
+      </div>
+      <div class="lb-card lb-wide" id="in-sala">
+        <h3 class="lb-card-title">Visti al cinema quest'anno</h3>
+        <p class="lb-note">Dalla tua lista "cinema <span data-draw="v" data-source="anno_review" data-field="anno" data-row="0" data-fmt="year">—</span>", con il tuo voto.</p>
+        <div class="lb-chips dash-skeleton" data-draw="in-sala" data-source="in_sala"></div>
+      </div>
+      <div class="lb-card" id="cuori">
+        <h3 class="lb-card-title">Il cuore e il voto</h3>
+        <p class="lb-note">Hai messo il cuore a <b data-draw="v" data-source="cuori_sintesi" data-field="cuori" data-row="0" data-fmt="int">—</b> film (<b data-draw="v" data-source="cuori_sintesi" data-field="quota" data-row="0" data-fmt="pct">—</b> dei visti). Voto medio <b data-draw="v" data-source="cuori_sintesi" data-field="media_cuori" data-row="0" data-fmt="dec1">—</b>★ contro <b data-draw="v" data-source="cuori_sintesi" data-field="media_altri" data-row="0" data-fmt="dec1">—</b>★ degli altri. Quota di film con il cuore per ogni voto:</p>
+        <div class="lb-chart dash-skeleton" data-draw="cuori-voto" data-source="cuori_per_voto"></div>
+      </div>
+      <div class="lb-card" id="piaceri-colpevoli">
+        <h3 class="lb-card-title">Piaceri colpevoli</h3>
+        <p class="lb-note">Film a cui hai messo il cuore ma che oggi voti <b data-draw="v" data-source="cuori_sintesi" data-field="soglia_colpa" data-row="0" data-fmt="dec1">—</b>★ o meno.</p>
+        <div class="lb-tablebox">
+          <table class="lb-table" data-source="piaceri_colpevoli" data-row-key="Letterboxd URI">
+            <thead><tr><th data-field="film">Film</th><th data-field="anno" class="lb-num">Anno</th><th data-field="voto">Voto</th></tr></thead>
+            <tbody data-draw="t-colpevoli"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= ARCHIVIO ================= -->
+  <section class="lb-page" id="archivio" role="tabpanel" hidden>
+    <header class="lb-page-head"><p class="lb-page-eyebrow">08 · Archivio</p><h2 class="lb-page-title">Recensioni e tutti i voti</h2></header>
+    <div class="lb-section" id="recensioni">
+      <h2 class="lb-h2">Le tue recensioni</h2>
+      <div class="lb-reviews dash-skeleton" data-draw="reviews" data-source="reviews"></div>
+    </div>
+    <div class="lb-section" id="tutti">
+      <h2 class="lb-h2">Tutti i voti</h2>
+      <div class="lb-card">
+        <p class="lb-note">Ogni film votato. Clicca un'intestazione per ordinare, o cerca per titolo, regista o genere.</p>
+        <input class="lb-search" type="search" placeholder="Cerca un film, un regista, un genere…" aria-label="Cerca">
+        <div class="lb-tablebox">
+          <table class="lb-table lb-all" data-source="visti_info" data-row-key="Letterboxd URI">
+            <thead><tr>
+              <th data-field="film" data-sort="film"><button type="button">Film</button></th>
+              <th data-field="regista" data-sort="regista" class="lb-hide-narrow"><button type="button">Regista</button></th>
+              <th data-field="genere" data-sort="genere" class="lb-hide-narrow"><button type="button">Genere</button></th>
+              <th data-field="anno" data-sort="anno" class="lb-num"><button type="button">Anno</button></th>
+              <th data-field="voto" data-sort="voto"><button type="button">Voto</button></th>
+              <th data-field="votato" data-sort="votato" class="lb-num lb-hide-narrow" aria-sort="descending"><button type="button">Votato il</button></th>
+            </tr></thead>
+            <tbody data-draw="t-tutti"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<footer class="site-foot">
+  <span>Dati dall'export di <a href="https://letterboxd.com/francebove/">letterboxd.com/francebove</a>, aggiornati al <b id="site-updated">—</b>.</span>
+  <span>Registi, generi, paesi e saghe compilati con Claude: possono contenere errori.</span>
+</footer>
+</main>
+<script src="vendor/d3.min.js"></script>
+<script src="assets/dash.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,955 @@
+Letterboxd URI,Name,Year,Lista,Regista,Genere,Paese,Regia
+https://boxd.it/uOLq,Lovely Boy,2021,Visti,Francesco Lettieri,Dramma,Italia,Uomo
+https://boxd.it/1Wv8,Lady and the Tramp,1955,Visti,Clyde Geronimi,Animazione,Stati Uniti,Uomo
+https://boxd.it/7bQA,Whiplash,2014,Visti,Damien Chazelle,Dramma,Stati Uniti,Uomo
+https://boxd.it/29ho,Cars,2006,Visti,John Lasseter,Animazione,Stati Uniti,Uomo
+https://boxd.it/28Uk,Rocky,1976,Visti,John G. Avildsen,Sport,Stati Uniti,Uomo
+https://boxd.it/eDGs,The Batman,2022,Visti,Matt Reeves,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/29VS,Catch Me If You Can,2002,Visti,Steven Spielberg,Crime,Stati Uniti,Uomo
+https://boxd.it/fZ9i,A Prayer Before Dawn,2017,Visti,Jean-Stéphane Sauvaire,Sport,Regno Unito,Uomo
+https://boxd.it/a5fa,La La Land,2016,Visti,Damien Chazelle,Musical,Stati Uniti,Uomo
+https://boxd.it/9SlO,War Dogs,2016,Visti,Todd Phillips,Commedia,Stati Uniti,Uomo
+https://boxd.it/62hE,"Love, Rosie",2014,Visti,Christian Ditter,Romantico,Regno Unito,Uomo
+https://boxd.it/2b2A,Donnie Darko,2001,Visti,Richard Kelly,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/7YtA,The Theory of Everything,2014,Visti,James Marsh,Biografico,Regno Unito,Uomo
+https://boxd.it/1U82,Shutter Island,2010,Visti,Martin Scorsese,Thriller,Stati Uniti,Uomo
+https://boxd.it/aYi4,Bleed for This,2016,Visti,Ben Younger,Sport,Stati Uniti,Uomo
+https://boxd.it/9Phu,Southpaw,2015,Visti,Antoine Fuqua,Sport,Stati Uniti,Uomo
+https://boxd.it/7dFE,Pelé: Birth of a Legend,2016,Visti,Jeff & Michael Zimbalist,Sport,Stati Uniti,Uomo
+https://boxd.it/awuc,Race,2016,Visti,Stephen Hopkins,Sport,Canada,Uomo
+https://boxd.it/29Pq,Pulp Fiction,1994,Visti,Quentin Tarantino,Crime,Stati Uniti,Uomo
+https://boxd.it/iYBQ,The Gentlemen,2019,Visti,Guy Ritchie,Crime,Regno Unito,Uomo
+https://boxd.it/29zs,Se7en,1995,Visti,David Fincher,Thriller,Stati Uniti,Uomo
+https://boxd.it/1dNG,Sorry if I Love You,2008,Visti,Federico Moccia,Romantico,Italia,Uomo
+https://boxd.it/1YGs,Kiss the Girls,1997,Visti,Gary Fleder,Thriller,Stati Uniti,Uomo
+https://boxd.it/2aeU,Love Actually,2003,Visti,Richard Curtis,Romantico,Regno Unito,Uomo
+https://boxd.it/27MO,Zodiac,2007,Visti,David Fincher,Thriller,Stati Uniti,Uomo
+https://boxd.it/780m,Nightcrawler,2014,Visti,Dan Gilroy,Thriller,Stati Uniti,Uomo
+https://boxd.it/17xs,Soap and Water,1983,Visti,Carlo Verdone,Commedia,Italia,Uomo
+https://boxd.it/1XwG,How to Lose a Guy in 10 Days,2003,Visti,Donald Petrie,Romantico,Stati Uniti,Uomo
+https://boxd.it/IG,Drive,2011,Visti,Nicolas Winding Refn,Crime,Stati Uniti,Uomo
+https://boxd.it/6lCG,Chef,2014,Visti,Jon Favreau,Commedia,Stati Uniti,Uomo
+https://boxd.it/28yI,Raging Bull,1980,Visti,Martin Scorsese,Sport,Stati Uniti,Uomo
+https://boxd.it/2auo,A Fistful of Dollars,1964,Visti,Sergio Leone,Western,Italia,Uomo
+https://boxd.it/2ape,"The Good, the Bad and the Ugly",1966,Visti,Sergio Leone,Western,Italia,Uomo
+https://boxd.it/bkFu,Nocturnal Animals,2016,Visti,Tom Ford,Thriller,Stati Uniti,Uomo
+https://boxd.it/2b9m,Gladiator,2000,Visti,Ridley Scott,Storico,Stati Uniti,Uomo
+https://boxd.it/2b8e,Back to the Future,1985,Visti,Robert Zemeckis,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/f1TK,Bohemian Rhapsody,2018,Visti,Bryan Singer,Biografico,Regno Unito,Uomo
+https://boxd.it/iehK,Rocketman,2019,Visti,Dexter Fletcher,Biografico,Regno Unito,Uomo
+https://boxd.it/8SeG,The Martian,2015,Visti,Ridley Scott,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2b9Q,Armageddon,1998,Visti,Michael Bay,Azione,Stati Uniti,Uomo
+https://boxd.it/2a2k,Titanic,1997,Visti,James Cameron,Romantico,Stati Uniti,Uomo
+https://boxd.it/1skk,Inception,2010,Visti,Christopher Nolan,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2bdI,Million Dollar Baby,2004,Visti,Clint Eastwood,Sport,Stati Uniti,Uomo
+https://boxd.it/4VZ8,Interstellar,2014,Visti,Christopher Nolan,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/h4cS,Joker,2019,Visti,Todd Phillips,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2b8y,Taxi Driver,1976,Visti,Martin Scorsese,Dramma,Stati Uniti,Uomo
+https://boxd.it/fA7G,Dune,2021,Visti,Denis Villeneuve,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/IOmy,Crypto Boy,2023,Visti,Shady El-Hamus,Dramma,Paesi Bassi,Uomo
+https://boxd.it/buJm,Kingsman: The Golden Circle,2017,Visti,Matthew Vaughn,Azione,Regno Unito,Uomo
+https://boxd.it/6dxe,Kingsman: The Secret Service,2014,Visti,Matthew Vaughn,Azione,Regno Unito,Uomo
+https://boxd.it/h714,The King's Man,2021,Visti,Matthew Vaughn,Azione,Regno Unito,Uomo
+https://boxd.it/IvQ,Welcome to the South,2010,Visti,Luca Miniero,Commedia,Italia,Uomo
+https://boxd.it/3022,Welcome to the North,2012,Visti,Luca Miniero,Commedia,Italia,Uomo
+https://boxd.it/16lq,The Country Boy,1984,Visti,Castellano & Pipolo,Commedia,Italia,Uomo
+https://boxd.it/1vtE,Fantozzi,1975,Visti,Luciano Salce,Commedia,Italia,Uomo
+https://boxd.it/1YxA,Look Who's Talking,1989,Visti,Amy Heckerling,Commedia,Stati Uniti,Donna
+https://boxd.it/5LDy,American Sniper,2014,Visti,Clint Eastwood,Guerra,Stati Uniti,Uomo
+https://boxd.it/x8vm,Big George Foreman,2023,Visti,George Tillman Jr.,Sport,Stati Uniti,Uomo
+https://boxd.it/2a1m,The Matrix,1999,Visti,Lana & Lilly Wachowski,Fantascienza,Stati Uniti,Donna
+https://boxd.it/glS,Moneyball,2011,Visti,Bennett Miller,Sport,Stati Uniti,Uomo
+https://boxd.it/y9aw,Society of the Snow,2023,Visti,J.A. Bayona,Dramma,Spagna,Uomo
+https://boxd.it/17ue,The Social Network,2010,Visti,David Fincher,Biografico,Stati Uniti,Uomo
+https://boxd.it/dgVi,Perfect Strangers,2016,Visti,Paolo Genovese,Commedia,Italia,Uomo
+https://boxd.it/jj4y,1917,2019,Visti,Sam Mendes,Guerra,Regno Unito,Uomo
+https://boxd.it/d0Y6,Dunkirk,2017,Visti,Christopher Nolan,Guerra,Regno Unito,Uomo
+https://boxd.it/3C1m,The Wolf of Wall Street,2013,Visti,Martin Scorsese,Crime,Stati Uniti,Uomo
+https://boxd.it/dgS4,Hidden Figures,2016,Visti,Theodore Melfi,Biografico,Stati Uniti,Uomo
+https://boxd.it/147m,Real Steel,2011,Visti,Shawn Levy,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/b8wA,Venom,2018,Visti,Ruben Fleischer,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/3lyS,Rush,2013,Visti,Ron Howard,Sport,Regno Unito,Uomo
+https://boxd.it/68RS,Belle and Sebastian,2013,Visti,Nicolas Vanier,Avventura,Francia,Uomo
+https://boxd.it/mUm6,The Platform,2019,Visti,Galder Gaztelu-Urrutia,Fantascienza,Spagna,Uomo
+https://boxd.it/cD8Q,Sully,2016,Visti,Clint Eastwood,Biografico,Stati Uniti,Uomo
+https://boxd.it/28Ua,Rocky II,1979,Visti,Sylvester Stallone,Sport,Stati Uniti,Uomo
+https://boxd.it/28Tw,Rocky III,1982,Visti,Sylvester Stallone,Sport,Stati Uniti,Uomo
+https://boxd.it/28T2,Rocky IV,1985,Visti,Sylvester Stallone,Sport,Stati Uniti,Uomo
+https://boxd.it/a2qk,Creed,2015,Visti,Ryan Coogler,Sport,Stati Uniti,Uomo
+https://boxd.it/hgl8,Creed II,2018,Visti,Steven Caple Jr.,Sport,Stati Uniti,Uomo
+https://boxd.it/pf68,Creed III,2023,Visti,Michael B. Jordan,Sport,Stati Uniti,Uomo
+https://boxd.it/72s,Star Wars,1977,Visti,George Lucas,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/27Vw,The Empire Strikes Back,1980,Visti,Irvin Kershner,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/27Vm,Return of the Jedi,1983,Visti,Richard Marquand,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/27Vc,Star Wars: Episode I – The Phantom Menace,1999,Visti,George Lucas,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/27V2,Star Wars: Episode II – Attack of the Clones,2002,Visti,George Lucas,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/27US,Star Wars: Episode III – Revenge of the Sith,2005,Visti,George Lucas,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/4vru,Star Wars: The Force Awakens,2015,Visti,J.J. Abrams,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/5xme,Star Wars: The Last Jedi,2017,Visti,Rian Johnson,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/5xlK,Star Wars: The Rise of Skywalker,2019,Visti,J.J. Abrams,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1Sly,Star Wars: The Clone Wars,2008,Visti,Dave Filoni,Animazione,Stati Uniti,Uomo
+https://boxd.it/aPvy,Rogue One: A Star Wars Story,2016,Visti,Gareth Edwards,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2b0k,The Dark Knight,2008,Visti,Christopher Nolan,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/H3m,The Dark Knight Rises,2012,Visti,Christopher Nolan,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2bb8,Indiana Jones and the Temple of Doom,1984,Visti,Steven Spielberg,Avventura,Stati Uniti,Uomo
+https://boxd.it/2baO,Indiana Jones and the Last Crusade,1989,Visti,Steven Spielberg,Avventura,Stati Uniti,Uomo
+https://boxd.it/2bbs,Raiders of the Lost Ark,1981,Visti,Steven Spielberg,Avventura,Stati Uniti,Uomo
+https://boxd.it/1XQw,Air Force One,1997,Visti,Wolfgang Petersen,Azione,Stati Uniti,Uomo
+https://boxd.it/1OE2,2012,2009,Visti,Roland Emmerich,Azione,Stati Uniti,Uomo
+https://boxd.it/28b0,Captain America: The First Avenger,2011,Visti,Joe Johnston,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2ZA8,The Perks of Being a Wallflower,2012,Visti,Stephen Chbosky,Dramma,Stati Uniti,Uomo
+https://boxd.it/D9A,"Crazy, Stupid, Love.",2011,Visti,Glenn Ficarra & John Requa,Commedia,Stati Uniti,Uomo
+https://boxd.it/cdzQ,Road House,2024,Visti,Doug Liman,Azione,Stati Uniti,Uomo
+https://boxd.it/2a8i,Spider-Man,2002,Visti,Sam Raimi,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/nwRw,Spider-Man: No Way Home,2021,Visti,Jon Watts,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/aboM,Spider-Man: Homecoming,2017,Visti,Jon Watts,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/fegG,Spider-Man: Far From Home,2019,Visti,Jon Watts,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2a88,Spider-Man 2,2004,Visti,Sam Raimi,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2a7Y,Spider-Man 3,2007,Visti,Sam Raimi,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/27PI,The Amazing Spider-Man,2012,Visti,Marc Webb,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/3utM,The Amazing Spider-Man 2,2014,Visti,Marc Webb,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/bYJQ,Coco,2017,Visti,Lee Unkrich,Animazione,Stati Uniti,Uomo
+https://boxd.it/29qA,Toy Story,1995,Visti,John Lasseter,Animazione,Stati Uniti,Uomo
+https://boxd.it/29qq,Toy Story 2,1999,Visti,John Lasseter,Animazione,Stati Uniti,Uomo
+https://boxd.it/72i,Finding Nemo,2003,Visti,Andrew Stanton,Animazione,Stati Uniti,Uomo
+https://boxd.it/1OEc,Up,2009,Visti,Pete Docter,Animazione,Stati Uniti,Uomo
+https://boxd.it/2a46,"Monsters, Inc.",2001,Visti,Pete Docter,Animazione,Stati Uniti,Uomo
+https://boxd.it/1XLm,The Incredibles,2004,Visti,Brad Bird,Animazione,Stati Uniti,Uomo
+https://boxd.it/27ww,Ratatouille,2007,Visti,Brad Bird,Animazione,Stati Uniti,Uomo
+https://boxd.it/lHOE,The Champion,2019,Visti,Leonardo D'Agostini,Sport,Italia,Uomo
+https://boxd.it/1TLC,The Warriors,1979,Visti,Walter Hill,Azione,Stati Uniti,Uomo
+https://boxd.it/dYmm,Call Me by Your Name,2017,Visti,Luca Guadagnino,Romantico,Italia,Uomo
+https://boxd.it/2ahY,Good Will Hunting,1997,Visti,Gus Van Sant,Dramma,Stati Uniti,Uomo
+https://boxd.it/jWEA,Knives Out,2019,Visti,Rian Johnson,Thriller,Stati Uniti,Uomo
+https://boxd.it/29Fg,Home Alone,1990,Visti,Chris Columbus,Commedia,Stati Uniti,Uomo
+https://boxd.it/i4IQ,I'm Thinking of Ending Things,2020,Visti,Charlie Kaufman,Dramma,Stati Uniti,Uomo
+https://boxd.it/17yU,Talcum Powder,1982,Visti,Carlo Verdone,Commedia,Italia,Uomo
+https://boxd.it/1Yzw,The Bone Collector,1999,Visti,Phillip Noyce,Thriller,Stati Uniti,Uomo
+https://boxd.it/2a9q,Fight Club,1999,Visti,David Fincher,Thriller,Stati Uniti,Uomo
+https://boxd.it/C0B2,Carry-On,2024,Visti,Jaume Collet-Serra,Thriller,Stati Uniti,Uomo
+https://boxd.it/1690,The Cyclone,1996,Visti,Leonardo Pieraccioni,Commedia,Italia,Uomo
+https://boxd.it/DOV4,It's What's Inside,2024,Visti,Greg Jardin,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/cEtq,Ferrari,2023,Visti,Michael Mann,Biografico,Stati Uniti,Uomo
+https://boxd.it/H4Y,Cars 2,2011,Visti,John Lasseter,Animazione,Stati Uniti,Uomo
+https://boxd.it/7IPq,Cars 3,2017,Visti,Brian Fee,Animazione,Stati Uniti,Uomo
+https://boxd.it/2aqc,The Pianist,2002,Visti,Roman Polanski,Guerra,Francia,Uomo
+https://boxd.it/wUow,Oppenheimer,2023,Visti,Christopher Nolan,Biografico,Stati Uniti,Uomo
+https://boxd.it/RMwE,The Love Scam,2025,Visti,,,,
+https://boxd.it/1EmM,(500) Days of Summer,2009,Visti,Marc Webb,Romantico,Stati Uniti,Uomo
+https://boxd.it/1UNE,The Notebook,2004,Visti,Nick Cassavetes,Romantico,Stati Uniti,Uomo
+https://boxd.it/vuz2,Woman of the Hour,2023,Visti,Anna Kendrick,Thriller,Stati Uniti,Donna
+https://boxd.it/gHp0,Killers of the Flower Moon,2023,Visti,Martin Scorsese,Crime,Stati Uniti,Uomo
+https://boxd.it/21DG,I Am Legend,2007,Visti,Francis Lawrence,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/hErk,Green Book,2018,Visti,Peter Farrelly,Biografico,Stati Uniti,Uomo
+https://boxd.it/OgCk,Ma chi ti conosce?,2024,Visti,,,,
+https://boxd.it/28PE,The Pursuit of Happyness,2006,Visti,Gabriele Muccino,Biografico,Stati Uniti,Uomo
+https://boxd.it/ajZw,The Big Short,2015,Visti,Adam McKay,Biografico,Stati Uniti,Uomo
+https://boxd.it/ce74,Ford v Ferrari,2019,Visti,James Mangold,Sport,Stati Uniti,Uomo
+https://boxd.it/IWFy,The Wild Robot,2024,Visti,Chris Sanders,Animazione,Stati Uniti,Uomo
+https://boxd.it/neO,Project X,2012,Visti,Nima Nourizadeh,Commedia,Stati Uniti,Uomo
+https://boxd.it/4E5i,Prisoners,2013,Visti,Denis Villeneuve,Thriller,Stati Uniti,Uomo
+https://boxd.it/KUeE,Jurassic World Rebirth,2025,Visti,Gareth Edwards,Avventura,Stati Uniti,Uomo
+https://boxd.it/70G,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Visti,Gore Verbinski,Avventura,Stati Uniti,Uomo
+https://boxd.it/2bfk,Pirates of the Caribbean: Dead Man's Chest,2006,Visti,Gore Verbinski,Avventura,Stati Uniti,Uomo
+https://boxd.it/2aGu,Pirates of the Caribbean: At World's End,2007,Visti,Gore Verbinski,Avventura,Stati Uniti,Uomo
+https://boxd.it/28Gs,Kingdom of Heaven,2005,Visti,Ridley Scott,Storico,Stati Uniti,Uomo
+https://boxd.it/29rI,Black Hawk Down,2001,Visti,Ridley Scott,Guerra,Stati Uniti,Uomo
+https://boxd.it/1GjK,The Hangover,2009,Visti,Todd Phillips,Commedia,Stati Uniti,Uomo
+https://boxd.it/3GNY,The Hangover Part III,2013,Visti,Todd Phillips,Commedia,Stati Uniti,Uomo
+https://boxd.it/UIi,Love & Other Drugs,2010,Visti,Edward Zwick,Romantico,Stati Uniti,Uomo
+https://boxd.it/293w,The Prestige,2006,Visti,Christopher Nolan,Thriller,Stati Uniti,Uomo
+https://boxd.it/2a1Q,Full Metal Jacket,1987,Visti,Stanley Kubrick,Guerra,Regno Unito,Uomo
+https://boxd.it/dHjA,Murder on the Orient Express,2017,Visti,Kenneth Branagh,Thriller,Stati Uniti,Uomo
+https://boxd.it/28Vs,American Psycho,2000,Visti,Mary Harron,Thriller,Stati Uniti,Donna
+https://boxd.it/v1Ei,Flow,2024,Visti,Gints Zilbalodis,Animazione,Lettonia,Uomo
+https://boxd.it/2aSg,Dead Poets Society,1989,Visti,Peter Weir,Dramma,Stati Uniti,Uomo
+https://boxd.it/Egcw,Anora,2024,Visti,Sean Baker,Dramma,Stati Uniti,Uomo
+https://boxd.it/H08,All Quiet on the Western Front,2022,Visti,Edward Berger,Guerra,Germania,Uomo
+https://boxd.it/hIgA,The Boy Who Harnessed the Wind,2019,Visti,Chiwetel Ejiofor,Biografico,Regno Unito,Uomo
+https://boxd.it/572i,Out of the Furnace,2013,Visti,Scott Cooper,Crime,Stati Uniti,Uomo
+https://boxd.it/8gw8,The Hateful Eight,2015,Visti,Quentin Tarantino,Western,Stati Uniti,Uomo
+https://boxd.it/1JzG,Inglourious Basterds,2009,Visti,Quentin Tarantino,Guerra,Stati Uniti,Uomo
+https://boxd.it/4O8G,Dallas Buyers Club,2013,Visti,Jean-Marc Vallée,Biografico,Stati Uniti,Uomo
+https://boxd.it/9mVg,Burnt,2015,Visti,John Wells,Dramma,Stati Uniti,Uomo
+https://boxd.it/3GPK,Captain Phillips,2013,Visti,Paul Greengrass,Biografico,Stati Uniti,Uomo
+https://boxd.it/ATh8,Perfect Days,2023,Visti,Wim Wenders,Dramma,Giappone,Uomo
+https://boxd.it/2as8,La Haine,1995,Visti,Mathieu Kassovitz,Dramma,Francia,Uomo
+https://boxd.it/cVcc,The Snowman,2017,Visti,Tomas Alfredson,Thriller,Regno Unito,Uomo
+https://boxd.it/2aIg,Batman Begins,2005,Visti,Christopher Nolan,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/UDrG,Buen Camino,2025,Visti,Gennaro Nunziante,Commedia,Italia,Uomo
+https://boxd.it/eOCm,Get Out,2017,Visti,Jordan Peele,Horror,Stati Uniti,Uomo
+https://boxd.it/JY,The Great Gatsby,2013,Visti,Baz Luhrmann,Dramma,Australia,Uomo
+https://boxd.it/prk2,My Octopus Teacher,2020,Visti,Pippa Ehrlich,Documentario,Sudafrica,Donna
+https://boxd.it/mkbG,Chernobyl,2019,Visti,Johan Renck,Dramma,Stati Uniti,Uomo
+https://boxd.it/zanS,The Substance,2024,Visti,Coralie Fargeat,Horror,Francia,Donna
+https://boxd.it/2b0E,Lost in Translation,2003,Visti,Sofia Coppola,Dramma,Stati Uniti,Donna
+https://boxd.it/2FT0,The Intouchables,2011,Visti,Olivier Nakache & Éric Toledano,Commedia,Francia,Uomo
+https://boxd.it/oCkK,Glass Onion,2022,Visti,Rian Johnson,Thriller,Stati Uniti,Uomo
+https://boxd.it/r5O4,Host,2020,Visti,Rob Savage,Horror,Regno Unito,Uomo
+https://boxd.it/2aHW,The Silence of the Lambs,1991,Visti,Jonathan Demme,Thriller,Stati Uniti,Uomo
+https://boxd.it/aZAy,The Magnificent Seven,2016,Visti,Antoine Fuqua,Western,Stati Uniti,Uomo
+https://boxd.it/29bA,The Magnificent Seven,1960,Visti,John Sturges,Western,Stati Uniti,Uomo
+https://boxd.it/acjI,The Greatest Showman,2017,Visti,Michael Gracey,Musical,Stati Uniti,Uomo
+https://boxd.it/28xK,School of Rock,2003,Visti,Richard Linklater,Commedia,Stati Uniti,Uomo
+https://boxd.it/mK4w,Elvis,2022,Visti,Baz Luhrmann,Biografico,Stati Uniti,Uomo
+https://boxd.it/248c,The Machinist,2004,Visti,Brad Anderson,Thriller,Spagna,Uomo
+https://boxd.it/1XK4,Save the Last Dance,2001,Visti,Thomas Carter,Romantico,Stati Uniti,Uomo
+https://boxd.it/2auI,12 Angry Men,1957,Visti,Sidney Lumet,Dramma,Stati Uniti,Uomo
+https://boxd.it/29vq,M,1931,Visti,Fritz Lang,Thriller,Germania,Uomo
+https://boxd.it/oNB8,Past Lives,2023,Visti,Celine Song,Romantico,Stati Uniti,Donna
+https://boxd.it/29Nu,The Shining,1980,Visti,Stanley Kubrick,Horror,Regno Unito,Uomo
+https://boxd.it/20i8,Cast Away,2000,Visti,Robert Zemeckis,Dramma,Stati Uniti,Uomo
+https://boxd.it/2az4,Once Upon a Time in the West,1968,Visti,Sergio Leone,Western,Italia,Uomo
+https://boxd.it/728,Forrest Gump,1994,Visti,Robert Zemeckis,Dramma,Stati Uniti,Uomo
+https://boxd.it/1alk,Casino Royale,2006,Visti,Martin Campbell,Azione,Regno Unito,Uomo
+https://boxd.it/1VEo,WALL·E,2008,Visti,Andrew Stanton,Animazione,Stati Uniti,Uomo
+https://boxd.it/2a2O,The Terminal,2004,Visti,Steven Spielberg,Commedia,Stati Uniti,Uomo
+https://boxd.it/2amk,A Beautiful Mind,2001,Visti,Ron Howard,Biografico,Stati Uniti,Uomo
+https://boxd.it/g2w,Ghostbusters,1984,Visti,Ivan Reitman,Commedia,Stati Uniti,Uomo
+https://boxd.it/2bdy,Billy Elliot,2000,Visti,Stephen Daldry,Dramma,Regno Unito,Uomo
+https://boxd.it/igNS,Booksmart,2019,Visti,Olivia Wilde,Commedia,Stati Uniti,Donna
+https://boxd.it/cjr4,Top Gun: Maverick,2022,Visti,Joseph Kosinski,Azione,Stati Uniti,Uomo
+https://boxd.it/2aXU,28 Days Later,2002,Visti,Danny Boyle,Horror,Regno Unito,Uomo
+https://boxd.it/218e,Coach Carter,2005,Visti,Thomas Carter,Sport,Stati Uniti,Uomo
+https://boxd.it/4O24,Her,2013,Visti,Spike Jonze,Romantico,Stati Uniti,Uomo
+https://boxd.it/2b7g,Scarface,1983,Visti,Brian De Palma,Crime,Stati Uniti,Uomo
+https://boxd.it/qpig,Hustle,2022,Visti,Jeremiah Zagar,Sport,Stati Uniti,Uomo
+https://boxd.it/gH0O,Once Upon a Time... in Hollywood,2019,Visti,Quentin Tarantino,Dramma,Stati Uniti,Uomo
+https://boxd.it/aXgc,A Star Is Born,2018,Visti,Bradley Cooper,Romantico,Stati Uniti,Uomo
+https://boxd.it/aZes,Ready Player One,2018,Visti,Steven Spielberg,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/b8wK,Blade Runner 2049,2017,Visti,Denis Villeneuve,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/bhF2,Baby Driver,2017,Visti,Edgar Wright,Azione,Stati Uniti,Uomo
+https://boxd.it/8lFu,Passengers,2016,Visti,Morten Tyldum,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/8MH8,Doctor Strange,2016,Visti,Scott Derrickson,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/84xS,Zootopia,2016,Visti,Byron Howard,Animazione,Stati Uniti,Uomo
+https://boxd.it/7kAm,I Can Quit Whenever I Want,2014,Visti,Sydney Sibilia,Commedia,Italia,Uomo
+https://boxd.it/3TOg,White House Down,2013,Visti,Roland Emmerich,Azione,Stati Uniti,Uomo
+https://boxd.it/5Qj4,Lone Survivor,2013,Visti,Peter Berg,Guerra,Stati Uniti,Uomo
+https://boxd.it/Aly,Limitless,2011,Visti,Neil Burger,Thriller,Stati Uniti,Uomo
+https://boxd.it/dX0,The King's Speech,2010,Visti,Tom Hooper,Biografico,Regno Unito,Uomo
+https://boxd.it/2bew,8 Mile,2002,Visti,Curtis Hanson,Dramma,Stati Uniti,Uomo
+https://boxd.it/29JC,Top Gun,1986,Visti,Tony Scott,Azione,Stati Uniti,Uomo
+https://boxd.it/18U8,The Truman Show,1998,Visti,Peter Weir,Dramma,Stati Uniti,Uomo
+https://boxd.it/qW26,Bullet Train,2022,Visti,David Leitch,Azione,Stati Uniti,Uomo
+https://boxd.it/2b68,Charlie and the Chocolate Factory,2005,Visti,Tim Burton,Fantasy,Stati Uniti,Uomo
+https://boxd.it/dzR0,"I, Tonya",2017,Visti,Craig Gillespie,Biografico,Stati Uniti,Uomo
+https://boxd.it/4KHC,Inside Out,2015,Visti,Pete Docter,Animazione,Stati Uniti,Uomo
+https://boxd.it/89Ja,Captain America: Civil War,2016,Visti,Anthony & Joe Russo,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/4hka,The Hunger Games: Mockingjay – Part 1,2014,Visti,Francis Lawrence,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/29YW,Grease,1978,Visti,Randal Kleiser,Musical,Stati Uniti,Uomo
+https://boxd.it/xBoE,Joker: Folie à Deux,2024,Visti,Todd Phillips,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/29F6,Home Alone 2: Lost in New York,1992,Visti,Chris Columbus,Commedia,Stati Uniti,Uomo
+https://boxd.it/u6WE,The Killer,2023,Visti,David Fincher,Thriller,Stati Uniti,Uomo
+https://boxd.it/3RKw,Paddington,2014,Visti,Paul King,Commedia,Regno Unito,Uomo
+https://boxd.it/4aAA,Finding Dory,2016,Visti,Andrew Stanton,Animazione,Stati Uniti,Uomo
+https://boxd.it/28wi,Night at the Museum,2006,Visti,Shawn Levy,Fantasy,Stati Uniti,Uomo
+https://boxd.it/GZY,Gravity,2013,Visti,Alfonso Cuarón,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2p2E,World War Z,2013,Visti,Marc Forster,Horror,Stati Uniti,Uomo
+https://boxd.it/29rS,The Mask,1994,Visti,Chuck Russell,Commedia,Stati Uniti,Uomo
+https://boxd.it/5a9m,Pirates of the Caribbean: Dead Men Tell No Tales,2017,Visti,Joachim Rønning,Avventura,Stati Uniti,Uomo
+https://boxd.it/2aHi,The Shawshank Redemption,1994,Visti,Frank Darabont,Dramma,Stati Uniti,Uomo
+https://boxd.it/2aNK,The Godfather,1972,Visti,Francis Ford Coppola,Crime,Stati Uniti,Uomo
+https://boxd.it/6ZS,Apocalypse Now,1979,Visti,Francis Ford Coppola,Guerra,Stati Uniti,Uomo
+https://boxd.it/29R2,Oldboy,2003,Visti,Park Chan-wook,Thriller,Corea del Sud,Uomo
+https://boxd.it/16lg,Three Men and a Leg,1997,Visti,"Aldo, Giovanni e Giacomo",Commedia,Italia,Uomo
+https://boxd.it/1xFW,The Avengers,2012,Visti,Joss Whedon,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/3VH2,Guardians of the Galaxy,2014,Visti,James Gunn,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/hJAw,Marriage Story,2019,Visti,Noah Baumbach,Dramma,Stati Uniti,Uomo
+https://boxd.it/9fOC,Deadpool,2016,Visti,Tim Miller,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/dlLM,Deadpool 2,2018,Visti,David Leitch,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/5rje,Big Hero 6,2014,Visti,Don Hall,Animazione,Stati Uniti,Uomo
+https://boxd.it/1Yws,Kung Fu Panda,2008,Visti,Mark Osborne,Animazione,Stati Uniti,Uomo
+https://boxd.it/j36o,Eternals,2021,Visti,Chloé Zhao,Cinecomic,Stati Uniti,Donna
+https://boxd.it/2aYI,Back to the Future Part II,1989,Visti,Robert Zemeckis,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1VhY,Matilda,1996,Visti,Danny DeVito,Commedia,Stati Uniti,Uomo
+https://boxd.it/2ark,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Visti,Andrew Adamson,Fantasy,Stati Uniti,Uomo
+https://boxd.it/7FPC,Fantastic Beasts and Where to Find Them,2016,Visti,David Yates,Fantasy,Regno Unito,Uomo
+https://boxd.it/2pgc,Ted,2012,Visti,Seth MacFarlane,Commedia,Stati Uniti,Uomo
+https://boxd.it/6JwC,Fury,2014,Visti,David Ayer,Guerra,Stati Uniti,Uomo
+https://boxd.it/280c,Transformers,2007,Visti,Michael Bay,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1Efm,Avatar,2009,Visti,James Cameron,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/8MHs,Black Panther,2018,Visti,Ryan Coogler,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2a0I,Men in Black,1997,Visti,Barry Sonnenfeld,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/75hu,Lucy,2014,Visti,Luc Besson,Fantascienza,Francia,Uomo
+https://boxd.it/3v1u,Maleficent,2014,Visti,Robert Stromberg,Fantasy,Stati Uniti,Uomo
+https://boxd.it/b5Dy,Uncharted,2022,Visti,Ruben Fleischer,Avventura,Stati Uniti,Uomo
+https://boxd.it/28XI,300,2006,Visti,Zack Snyder,Storico,Stati Uniti,Uomo
+https://boxd.it/29BS,Platoon,1986,Visti,Oliver Stone,Guerra,Stati Uniti,Uomo
+https://boxd.it/7BaA,Pixels,2015,Visti,Chris Columbus,Commedia,Stati Uniti,Uomo
+https://boxd.it/1XVG,Bad Boys,1995,Visti,Michael Bay,Azione,Stati Uniti,Uomo
+https://boxd.it/Vm8,Ghostbusters,2016,Visti,Paul Feig,Commedia,Stati Uniti,Uomo
+https://boxd.it/29Q4,Pearl Harbor,2001,Visti,Michael Bay,Guerra,Stati Uniti,Uomo
+https://boxd.it/fVqa,Skyscraper,2018,Visti,Rawson Marshall Thurber,Azione,Stati Uniti,Uomo
+https://boxd.it/1ZLI,Jumanji,1995,Visti,Joe Johnston,Avventura,Stati Uniti,Uomo
+https://boxd.it/38EI,Journey to the Center of the Earth,2008,Visti,Eric Brevig,Avventura,Stati Uniti,Uomo
+https://boxd.it/15pc,Bad Boys for Life,2020,Visti,Adil & Bilall,Azione,Stati Uniti,Uomo
+https://boxd.it/2aQY,The Terminator,1984,Visti,James Cameron,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/29T8,From Russia with Love,1963,Visti,Terence Young,Azione,Regno Unito,Uomo
+https://boxd.it/fJfk,The First Purge,2018,Visti,Gerard McMurray,Horror,Stati Uniti,Uomo
+https://boxd.it/fdnc,12 Strong,2018,Visti,Nicolai Fuglsig,Guerra,Stati Uniti,Uomo
+https://boxd.it/1zNS,Green Zone,2010,Visti,Paul Greengrass,Guerra,Stati Uniti,Uomo
+https://boxd.it/28U0,First Blood,1982,Visti,Ted Kotcheff,Azione,Stati Uniti,Uomo
+https://boxd.it/d3bc,Robin Hood,2018,Visti,Otto Bathurst,Azione,Stati Uniti,Uomo
+https://boxd.it/QZ0,Battleship,2012,Visti,Peter Berg,Azione,Stati Uniti,Uomo
+https://boxd.it/iX4w,Midway,2019,Visti,Roland Emmerich,Guerra,Stati Uniti,Uomo
+https://boxd.it/araG,Steve Jobs,2015,Visti,Danny Boyle,Biografico,Stati Uniti,Uomo
+https://boxd.it/2W7s,Avatar: Fire and Ash,2025,Visti,James Cameron,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/bC8e,It,2017,Visti,Andy Muschietti,Horror,Stati Uniti,Uomo
+https://boxd.it/4pDO,The Lego Movie,2014,Visti,Phil Lord & Christopher Miller,Animazione,Stati Uniti,Uomo
+https://boxd.it/29dc,Madagascar,2005,Visti,Eric Darnell,Animazione,Stati Uniti,Uomo
+https://boxd.it/azpu,Despicable Me 3,2017,Visti,Pierre Coffin,Animazione,Stati Uniti,Uomo
+https://boxd.it/1SeC,One Hundred and One Dalmatians,1961,Visti,Clyde Geronimi,Animazione,Stati Uniti,Uomo
+https://boxd.it/1X3Y,The Aristocats,1970,Visti,Wolfgang Reitherman,Animazione,Stati Uniti,Uomo
+https://boxd.it/2aCs,Once Upon a Time in America,1984,Visti,Sergio Leone,Crime,Italia,Uomo
+https://boxd.it/29QS,Harry Potter and the Philosopher's Stone,2001,Visti,Chris Columbus,Fantasy,Regno Unito,Uomo
+https://boxd.it/1Z2e,Monster House,2006,Visti,Gil Kenan,Animazione,Stati Uniti,Uomo
+https://boxd.it/2DF6,Hotel Transylvania,2012,Visti,Genndy Tartakovsky,Animazione,Stati Uniti,Uomo
+https://boxd.it/ekeY,Wonder,2017,Visti,Stephen Chbosky,Dramma,Stati Uniti,Uomo
+https://boxd.it/29Cw,Mrs. Doubtfire,1993,Visti,Chris Columbus,Commedia,Stati Uniti,Uomo
+https://boxd.it/28Ym,Meet the Robinsons,2007,Visti,Stephen J. Anderson,Animazione,Stati Uniti,Uomo
+https://boxd.it/1XH0,Happy Feet,2006,Visti,George Miller,Animazione,Australia,Uomo
+https://boxd.it/d9x4,The Emoji Movie,2017,Visti,Tony Leondis,Animazione,Stati Uniti,Uomo
+https://boxd.it/1Tey,The Emperor's New Groove,2000,Visti,Mark Dindal,Animazione,Stati Uniti,Uomo
+https://boxd.it/29zi,Shrek,2001,Visti,Andrew Adamson,Animazione,Stati Uniti,Uomo
+https://boxd.it/3ZqO,The Grand Budapest Hotel,2014,Visti,Wes Anderson,Commedia,Stati Uniti,Uomo
+https://boxd.it/Dqw,Ask Me If I'm Happy,2000,Visti,"Aldo, Giovanni e Giacomo",Commedia,Italia,Uomo
+https://boxd.it/164k,That's Life,1998,Visti,"Aldo, Giovanni e Giacomo",Commedia,Italia,Uomo
+https://boxd.it/9X5w,"The Rich, the Pauper and the Butler",2014,Visti,"Aldo, Giovanni e Giacomo",Commedia,Italia,Uomo
+https://boxd.it/eP54,Escape From Reuma Park,2016,Visti,"Aldo, Giovanni e Giacomo",Commedia,Italia,Uomo
+https://boxd.it/28p2,Freedom Writers,2007,Visti,Richard LaGravenese,Dramma,Stati Uniti,Uomo
+https://boxd.it/LekC,Steve,2025,Visti,Tim Mielants,Dramma,Regno Unito,Uomo
+https://boxd.it/9BgC,Before I Wake,2016,Visti,Mike Flanagan,Horror,Stati Uniti,Uomo
+https://boxd.it/24as,The Darjeeling Limited,2007,Visti,Wes Anderson,Commedia,Stati Uniti,Uomo
+https://boxd.it/17yK,The Second Tragic Fantozzi,1976,Visti,Luciano Salce,Commedia,Italia,Uomo
+https://boxd.it/1WyQ,Fantastic Mr. Fox,2009,Visti,Wes Anderson,Animazione,Stati Uniti,Uomo
+https://boxd.it/205o,Hitch,2005,Visti,Andy Tennant,Romantico,Stati Uniti,Uomo
+https://boxd.it/20OS,The Wave,2008,Visti,Dennis Gansel,Dramma,Germania,Uomo
+https://boxd.it/2N9k,The Impossible,2012,Visti,J.A. Bayona,Dramma,Spagna,Uomo
+https://boxd.it/16qK,Mediterraneo,1991,Visti,Gabriele Salvatores,Commedia,Italia,Uomo
+https://boxd.it/IUQ,Ovosodo,1997,Visti,Paolo Virzì,Commedia,Italia,Uomo
+https://boxd.it/tBu0,Two Distant Strangers,2020,Visti,Travon Free,Dramma,Stati Uniti,Uomo
+https://boxd.it/xouu,No Hard Feelings,2023,Visti,Gene Stupnitsky,Commedia,Stati Uniti,Uomo
+https://boxd.it/16bK,War of the Buttons,1994,Visti,John Roberts,Avventura,Irlanda,Uomo
+https://boxd.it/8sae,Nicholas on Holiday,2014,Visti,Laurent Tirard,Commedia,Francia,Uomo
+https://boxd.it/hHUa,Burning,2018,Visti,Lee Chang-dong,Dramma,Corea del Sud,Uomo
+https://boxd.it/2aNq,The Godfather Part II,1974,Visti,Francis Ford Coppola,Crime,Stati Uniti,Uomo
+https://boxd.it/29FA,GoodFellas,1990,Visti,Martin Scorsese,Crime,Stati Uniti,Uomo
+https://boxd.it/29eu,For a Few Dollars More,1965,Visti,Sergio Leone,Western,Italia,Uomo
+https://boxd.it/2cCk,Django Unchained,2012,Visti,Quentin Tarantino,Western,Stati Uniti,Uomo
+https://boxd.it/23WU,Sympathy for Mr. Vengeance,2002,Visti,Park Chan-wook,Thriller,Corea del Sud,Uomo
+https://boxd.it/lScm,The Menu,2022,Visti,Mark Mylod,Thriller,Stati Uniti,Uomo
+https://boxd.it/2aTI,Braveheart,1995,Visti,Mel Gibson,Storico,Stati Uniti,Uomo
+https://boxd.it/29d2,Mission: Impossible,1996,Visti,Brian De Palma,Azione,Stati Uniti,Uomo
+https://boxd.it/l7A2,Mission: Impossible – The Final Reckoning,2025,Visti,Christopher McQuarrie,Azione,Stati Uniti,Uomo
+https://boxd.it/29cI,Mission: Impossible III,2006,Visti,J.J. Abrams,Azione,Stati Uniti,Uomo
+https://boxd.it/29cy,Spaceballs,1987,Visti,Mel Brooks,Commedia,Stati Uniti,Uomo
+https://boxd.it/261s,Ghostbusters II,1989,Visti,Ivan Reitman,Commedia,Stati Uniti,Uomo
+https://boxd.it/2adi,The Blues Brothers,1980,Visti,John Landis,Commedia,Stati Uniti,Uomo
+https://boxd.it/28sK,Trading Places,1983,Visti,John Landis,Commedia,Stati Uniti,Uomo
+https://boxd.it/9vEe,Avengers: Infinity War,2018,Visti,Anthony & Joe Russo,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/9vE4,Avengers: Endgame,2019,Visti,Anthony & Joe Russo,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2aGY,Terminator 2: Judgment Day,1991,Visti,James Cameron,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2a1G,E.T. the Extra-Terrestrial,1982,Visti,Steven Spielberg,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2aA2,Jurassic Park,1993,Visti,Steven Spielberg,Avventura,Stati Uniti,Uomo
+https://boxd.it/29ro,Saving Private Ryan,1998,Visti,Steven Spielberg,Guerra,Stati Uniti,Uomo
+https://boxd.it/iwt0,West Side Story,2021,Visti,Steven Spielberg,Musical,Stati Uniti,Uomo
+https://boxd.it/2uds,The Hunger Games,2012,Visti,Gary Ross,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/28dA,Iron Man,2008,Visti,Jon Favreau,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/3qi6,Avengers: Age of Ultron,2015,Visti,Joss Whedon,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2BiY,Detachment,2011,Visti,Tony Kaye,Dramma,Stati Uniti,Uomo
+https://boxd.it/1UNO,Roma,1972,Visti,Federico Fellini,Dramma,Italia,Uomo
+https://boxd.it/29yu,Airplane!,1980,Visti,Zucker-Abrahams-Zucker,Commedia,Stati Uniti,Uomo
+https://boxd.it/i8vw,Disconnected,2018,Visti,Massimo Martelli,Commedia,Italia,Uomo
+https://boxd.it/28um,Fever Pitch,1997,Visti,David Evans,Commedia,Regno Unito,Uomo
+https://boxd.it/wotY,The Beautiful Game,2024,Visti,Thea Sharrock,Sport,Regno Unito,Donna
+https://boxd.it/18H4,Witness for the Prosecution,1957,Visti,Billy Wilder,Thriller,Stati Uniti,Uomo
+https://boxd.it/2ab2,Psycho,1960,Visti,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/1Vwk,Escape from Alcatraz,1979,Visti,Don Siegel,Dramma,Stati Uniti,Uomo
+https://boxd.it/28lk,The Hunt for Red October,1990,Visti,John McTiernan,Thriller,Stati Uniti,Uomo
+https://boxd.it/R8Pw,All in Favor,2025,Visti,,,,
+https://boxd.it/2E2E,Avatar: The Way of Water,2022,Visti,James Cameron,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/27Qm,Superman,1978,Visti,Richard Donner,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/204q,Superman II,1980,Visti,Richard Lester,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/1YrM,Superman III,1983,Visti,Richard Lester,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/201Q,The Lion King,1994,Visti,Roger Allers,Animazione,Stati Uniti,Uomo
+https://boxd.it/1WRy,How to Train Your Dragon,2010,Visti,Dean DeBlois,Animazione,Stati Uniti,Uomo
+https://boxd.it/2TRW,How to Train Your Dragon 2,2014,Visti,Dean DeBlois,Animazione,Stati Uniti,Uomo
+https://boxd.it/5a9w,How to Train Your Dragon: The Hidden World,2019,Visti,Dean DeBlois,Animazione,Stati Uniti,Uomo
+https://boxd.it/3GNa,Frozen,2013,Visti,Chris Buck,Animazione,Stati Uniti,Uomo
+https://boxd.it/8tfY,Moana,2016,Visti,Ron Clements & John Musker,Animazione,Stati Uniti,Uomo
+https://boxd.it/1WRe,Toy Story 3,2010,Visti,Lee Unkrich,Animazione,Stati Uniti,Uomo
+https://boxd.it/1TAY,Lilo & Stitch,2002,Visti,Chris Sanders,Animazione,Stati Uniti,Uomo
+https://boxd.it/2TTS,Wreck-It Ralph,2012,Visti,Rich Moore,Animazione,Stati Uniti,Uomo
+https://boxd.it/1DD8,Despicable Me,2010,Visti,Pierre Coffin,Animazione,Stati Uniti,Uomo
+https://boxd.it/1WQq,The Princess and the Frog,2009,Visti,Ron Clements & John Musker,Animazione,Stati Uniti,Uomo
+https://boxd.it/29yE,Aladdin,1992,Visti,Ron Clements & John Musker,Animazione,Stati Uniti,Uomo
+https://boxd.it/bQm,Monsters University,2013,Visti,Dan Scanlon,Animazione,Stati Uniti,Uomo
+https://boxd.it/2apS,Ice Age,2002,Visti,Chris Wedge,Animazione,Stati Uniti,Uomo
+https://boxd.it/G36,Kung Fu Panda 2,2011,Visti,Jennifer Yuh Nelson,Animazione,Stati Uniti,Donna
+https://boxd.it/1A40,Cloudy with a Chance of Meatballs,2009,Visti,Phil Lord & Christopher Miller,Animazione,Stati Uniti,Uomo
+https://boxd.it/3gg0,Despicable Me 2,2013,Visti,Pierre Coffin,Animazione,Stati Uniti,Uomo
+https://boxd.it/fz9w,Minions: The Rise of Gru,2022,Visti,Kyle Balda,Animazione,Stati Uniti,Uomo
+https://boxd.it/edAy,Ralph Breaks the Internet,2018,Visti,Rich Moore,Animazione,Stati Uniti,Uomo
+https://boxd.it/NKc,Rio,2011,Visti,Carlos Saldanha,Animazione,Stati Uniti,Uomo
+https://boxd.it/1VYe,Shark Tale,2004,Visti,Vicky Jenson,Animazione,Stati Uniti,Donna
+https://boxd.it/1Xve,Robots,2005,Visti,Chris Wedge,Animazione,Stati Uniti,Uomo
+https://boxd.it/4uRQ,Kung Fu Panda 3,2016,Visti,Jennifer Yuh Nelson,Animazione,Stati Uniti,Donna
+https://boxd.it/1YKY,Surf's Up,2007,Visti,Ash Brannon,Animazione,Stati Uniti,Uomo
+https://boxd.it/21E0,Alvin and the Chipmunks,2007,Visti,Tim Hill,Commedia,Stati Uniti,Uomo
+https://boxd.it/25AQ,Bambi,1942,Visti,David Hand,Animazione,Stati Uniti,Uomo
+https://boxd.it/26YO,Space Jam,1996,Visti,Joe Pytka,Commedia,Stati Uniti,Uomo
+https://boxd.it/FRE,The Croods,2013,Visti,Chris Sanders,Animazione,Stati Uniti,Uomo
+https://boxd.it/1Tpm,Flushed Away,2006,Visti,David Bowers,Animazione,Regno Unito,Uomo
+https://boxd.it/aJ5E,The Secret Life of Pets,2016,Visti,Chris Renaud,Animazione,Stati Uniti,Uomo
+https://boxd.it/2NF6,Madagascar 3: Europe's Most Wanted,2012,Visti,Eric Darnell,Animazione,Stati Uniti,Uomo
+https://boxd.it/1YY2,The Jungle Book,1967,Visti,Wolfgang Reitherman,Animazione,Stati Uniti,Uomo
+https://boxd.it/9mfO,The Boss Baby,2017,Visti,Tom McGrath,Animazione,Stati Uniti,Uomo
+https://boxd.it/1M50,Monsters vs Aliens,2009,Visti,Rob Letterman,Animazione,Stati Uniti,Uomo
+https://boxd.it/yVza,The House,2022,Visti,AA.VV.,Animazione,Regno Unito,
+https://boxd.it/1SRa,Robin Hood,1973,Visti,Wolfgang Reitherman,Animazione,Stati Uniti,Uomo
+https://boxd.it/4p8Q,Trolls,2016,Visti,Mike Mitchell,Animazione,Stati Uniti,Uomo
+https://boxd.it/6JxA,Home,2015,Visti,Tim Johnson,Animazione,Stati Uniti,Uomo
+https://boxd.it/89tc,Penguins of Madagascar,2014,Visti,Eric Darnell,Animazione,Stati Uniti,Uomo
+https://boxd.it/1zgk,Alvin and the Chipmunks: The Squeakquel,2009,Visti,Betty Thomas,Commedia,Stati Uniti,Donna
+https://boxd.it/Zcm,The Smurfs,2011,Visti,Raja Gosnell,Commedia,Stati Uniti,Uomo
+https://boxd.it/2Hzw,Turbo,2013,Visti,David Soren,Animazione,Stati Uniti,Uomo
+https://boxd.it/3GMw,Cloudy with a Chance of Meatballs 2,2013,Visti,Cody Cameron,Animazione,Stati Uniti,Uomo
+https://boxd.it/2TRM,Mr. Peabody & Sherman,2014,Visti,Rob Minkoff,Animazione,Stati Uniti,Uomo
+https://boxd.it/1YVC,The Goonies,1985,Visti,Richard Donner,Avventura,Stati Uniti,Uomo
+https://boxd.it/hXlq,Triangle of Sadness,2022,Visti,Ruben Östlund,Commedia,Svezia,Uomo
+https://boxd.it/6oCY,Ted 2,2015,Visti,Seth MacFarlane,Commedia,Stati Uniti,Uomo
+https://boxd.it/3d1m,Transformers: Age of Extinction,2014,Visti,Michael Bay,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/7UcA,Force Majeure,2014,Visti,Ruben Östlund,Dramma,Svezia,Uomo
+https://boxd.it/22m2,Into the Wild,2007,Visti,Sean Penn,Biografico,Stati Uniti,Uomo
+https://boxd.it/1QAw,Friday the 13th,2009,Visti,Marcus Nispel,Horror,Stati Uniti,Uomo
+https://boxd.it/29u8,Close Encounters of the Third Kind,1977,Visti,Steven Spielberg,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/pEeQ,Project Hail Mary,2026,Visti,Phil Lord & Christopher Miller,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/e5YW,The Square,2017,Visti,Ruben Östlund,Commedia,Svezia,Uomo
+https://boxd.it/1SPe,Kind Hearts and Coronets,1949,Visti,Robert Hamer,Commedia,Regno Unito,Uomo
+https://boxd.it/1TSo,Memories of Murder,2003,Visti,Bong Joon-ho,Thriller,Corea del Sud,Uomo
+https://boxd.it/4Pck,Underdogs,2013,Visti,Juan José Campanella,Animazione,Argentina,Uomo
+https://boxd.it/aX7k,400 Days,2015,Visti,Matt Osterman,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/azp0,The Lego Batman Movie,2017,Visti,Chris McKay,Animazione,Stati Uniti,Uomo
+https://boxd.it/2axs,Eyes Wide Shut,1999,Visti,Stanley Kubrick,Dramma,Regno Unito,Uomo
+https://boxd.it/7Nw4,Serial (Bad) Weddings,2014,Visti,Philippe de Chauveron,Commedia,Francia,Uomo
+https://boxd.it/dgSy,Split,2016,Visti,M. Night Shyamalan,Thriller,Stati Uniti,Uomo
+https://boxd.it/2aVk,Sin City,2005,Visti,Robert Rodriguez,Crime,Stati Uniti,Uomo
+https://boxd.it/1Y86,The Italian Job,2003,Visti,F. Gary Gray,Crime,Stati Uniti,Uomo
+https://boxd.it/1vlA,Foreign Correspondent,1940,Visti,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/2a0y,Men in Black II,2002,Visti,Barry Sonnenfeld,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/hdJw,Men in Black: International,2019,Visti,F. Gary Gray,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2aoA,Mary Poppins,1964,Visti,Robert Stevenson,Musical,Stati Uniti,Uomo
+https://boxd.it/3vmW,Ant-Man,2015,Visti,Peyton Reed,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/cqUW,Ant-Man and the Wasp,2018,Visti,Peyton Reed,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2a5e,Jaws,1975,Visti,Steven Spielberg,Thriller,Stati Uniti,Uomo
+https://boxd.it/2aNA,Some Like It Hot,1959,Visti,Billy Wilder,Commedia,Stati Uniti,Uomo
+https://boxd.it/d0rm,Where Am I Going?,2016,Visti,Gennaro Nunziante,Commedia,Italia,Uomo
+https://boxd.it/1UlA,Cinema Paradiso,1988,Visti,Giuseppe Tornatore,Dramma,Italia,Uomo
+https://boxd.it/2aWW,Saw,2004,Visti,James Wan,Horror,Stati Uniti,Uomo
+https://boxd.it/29M2,Annie Hall,1977,Visti,Woody Allen,Commedia,Stati Uniti,Uomo
+https://boxd.it/iYlS,Escape Room,2019,Visti,Adam Robitel,Horror,Stati Uniti,Uomo
+https://boxd.it/1YNe,They Call Me Trinity,1970,Visti,Enzo Barboni,Western,Italia,Uomo
+https://boxd.it/1Teo,Crime Busters,1977,Visti,Enzo Barboni,Commedia,Italia,Uomo
+https://boxd.it/1HLA,Midnight Madness,1980,Visti,,Commedia,,
+https://boxd.it/hTha,Parasite,2019,Visti,Bong Joon-ho,Thriller,Corea del Sud,Uomo
+https://boxd.it/fwac,A Taxi Driver,2017,Visti,Jang Hoon,Dramma,Corea del Sud,Uomo
+https://boxd.it/248G,Lady Vengeance,2005,Visti,Park Chan-wook,Thriller,Corea del Sud,Uomo
+https://boxd.it/23jy,Hannah and Her Sisters,1986,Visti,Woody Allen,Commedia,Stati Uniti,Uomo
+https://boxd.it/nKiA,No Other Choice,2025,Visti,Park Chan-wook,Thriller,Corea del Sud,Uomo
+https://boxd.it/qp9e,Decision to Leave,2022,Visti,Park Chan-wook,Thriller,Corea del Sud,Uomo
+https://boxd.it/jeHK,The Croods: A New Age,2020,Visti,Joel Crawford,Animazione,Stati Uniti,Uomo
+https://boxd.it/eCrQ,Kill Bill: The Whole Bloody Affair,2004,Visti,Quentin Tarantino,Azione,Stati Uniti,Uomo
+https://boxd.it/2au4,Kill Bill: Vol. 2,2004,Visti,Quentin Tarantino,Azione,Stati Uniti,Uomo
+https://boxd.it/70w,Kill Bill: Vol. 1,2003,Visti,Quentin Tarantino,Azione,Stati Uniti,Uomo
+https://boxd.it/llco,Venom: Let There Be Carnage,2021,Visti,Andy Serkis,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/1gJi,Percy Jackson & the Olympians: The Lightning Thief,2010,Visti,Chris Columbus,Fantasy,Stati Uniti,Uomo
+https://boxd.it/4Xg0,The Purge,2013,Visti,James DeMonaco,Horror,Stati Uniti,Uomo
+https://boxd.it/2Bzq,Oblivion,2013,Visti,Joseph Kosinski,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/b5ee,Land of Mine,2015,Visti,Martin Zandvliet,Guerra,Danimarca,Uomo
+https://boxd.it/20Z2,There Will Be Blood,2007,Visti,Paul Thomas Anderson,Dramma,Stati Uniti,Uomo
+https://boxd.it/7dEc,John Wick,2014,Visti,Chad Stahelski,Azione,Stati Uniti,Uomo
+https://boxd.it/h10u,It Chapter Two,2019,Visti,Andy Muschietti,Horror,Stati Uniti,Uomo
+https://boxd.it/l7SA,Modalità aereo,2019,Visti,Fausto Brizzi,Commedia,Italia,Uomo
+https://boxd.it/WV4,Christmas in Miami,2005,Visti,Neri Parenti,Commedia,Italia,Uomo
+https://boxd.it/726S,Brain Drain,2013,Visti,Paolo Ruffini,Commedia,Italia,Uomo
+https://boxd.it/leq4,Tenet,2020,Visti,Christopher Nolan,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/PNqo,Obsession,2025,Visti,Curry Barker,Horror,Stati Uniti,Uomo
+https://boxd.it/1TNo,Suspicion,1941,Visti,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/lV0S,Shazam! Fury of the Gods,2023,Visti,David F. Sandberg,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2a0o,Poltergeist,1982,Visti,Tobe Hooper,Horror,Stati Uniti,Uomo
+https://boxd.it/czfI,They Call Me Jeeg,2015,Visti,Gabriele Mainetti,Cinecomic,Italia,Uomo
+https://boxd.it/6IaA,Unbroken,2014,Visti,Angelina Jolie,Biografico,Stati Uniti,Donna
+https://boxd.it/25A2,Barry Lyndon,1975,Visti,Stanley Kubrick,Storico,Regno Unito,Uomo
+https://boxd.it/2arO,Snow White and the Seven Dwarfs,1937,Visti,David Hand,Animazione,Stati Uniti,Uomo
+https://boxd.it/1U2o,Dumbo,1941,Visti,Ben Sharpsteen,Animazione,Stati Uniti,Uomo
+https://boxd.it/3m4k,RoboCop,2014,Visti,José Padilha,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/9FPc,The Invisible Boy,2014,Visti,Gabriele Salvatores,Cinecomic,Italia,Uomo
+https://boxd.it/8jSc,Daddy's Home,2015,Visti,Sean Anders,Commedia,Stati Uniti,Uomo
+https://boxd.it/Sw0,Black Swan,2010,Visti,Darren Aronofsky,Thriller,Stati Uniti,Uomo
+https://boxd.it/2a6m,The Birds,1963,Visti,Alfred Hitchcock,Horror,Stati Uniti,Uomo
+https://boxd.it/2bf0,2001: A Space Odyssey,1968,Visti,Stanley Kubrick,Fantascienza,Regno Unito,Uomo
+https://boxd.it/1Wow,The Iron Giant,1999,Visti,Brad Bird,Animazione,Stati Uniti,Uomo
+https://boxd.it/Arw0,Aftersun,2022,Visti,Charlotte Wells,Dramma,Regno Unito,Donna
+https://boxd.it/28yo,Rope,1948,Visti,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/29Na,Manhattan,1979,Visti,Woody Allen,Commedia,Stati Uniti,Uomo
+https://boxd.it/1SC0,Look Who's Talking Now!,1993,Visti,Tom Ropelewski,Commedia,Stati Uniti,Uomo
+https://boxd.it/2aGE,The Apartment,1960,Visti,Billy Wilder,Commedia,Stati Uniti,Uomo
+https://boxd.it/4PBu,The Angry Birds Movie,2016,Visti,Clay Kaytis,Animazione,Stati Uniti,Uomo
+https://boxd.it/29b6,Paths of Glory,1957,Visti,Stanley Kubrick,Guerra,Stati Uniti,Uomo
+https://boxd.it/7ZkO,Grimsby,2016,Visti,Louis Leterrier,Commedia,Regno Unito,Uomo
+https://boxd.it/29ks,Bringing Up Baby,1938,Visti,Howard Hawks,Commedia,Stati Uniti,Uomo
+https://boxd.it/23hW,Bicycle Thieves,1948,Visti,Vittorio De Sica,Dramma,Italia,Uomo
+https://boxd.it/2aEI,Meet Joe Black,1998,Visti,Martin Brest,Romantico,Stati Uniti,Uomo
+https://boxd.it/29aC,Seven Years in Tibet,1997,Visti,Jean-Jacques Annaud,Biografico,Stati Uniti,Uomo
+https://boxd.it/QFQU,The Odyssey,2026,Visti,Christopher Nolan,Fantasy,Stati Uniti,Uomo
+https://boxd.it/VUa,Henry IV,1984,Visti,Marco Bellocchio,Dramma,Italia,Uomo
+https://boxd.it/gaTc,Doctor Strange in the Multiverse of Madness,2022,Visti,Sam Raimi,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/2bcK,Memento,2000,Visti,Christopher Nolan,Thriller,Stati Uniti,Uomo
+https://boxd.it/25HW,The Night of the Hunter,1955,Visti,Charles Laughton,Thriller,Stati Uniti,Uomo
+https://boxd.it/vN1e,Poker Face,2022,Visti,Russell Crowe,Thriller,Australia,Uomo
+https://boxd.it/21ew,No Country for Old Men,2007,Visti,Joel & Ethan Coen,Crime,Stati Uniti,Uomo
+https://boxd.it/2oqg,Red Tails,2012,Visti,Anthony Hemingway,Guerra,Stati Uniti,Uomo
+https://boxd.it/1XJq,The Parent Trap,1998,Visti,Nancy Meyers,Commedia,Stati Uniti,Donna
+https://boxd.it/1cjU,Cado dalle nubi,2009,Visti,Gennaro Nunziante,Commedia,Italia,Uomo
+https://boxd.it/6OiU,Sun in Buckets,2013,Visti,Gennaro Nunziante,Commedia,Italia,Uomo
+https://boxd.it/ACJE,Spider-Man: Brand New Day,2026,Visti,Destin Daniel Cretton,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/dViG,Borg vs McEnroe,2017,Visti,Janus Metz,Sport,Svezia,Uomo
+https://boxd.it/mG8,The House with Laughing Windows,1976,Visti,Pupi Avati,Horror,Italia,Uomo
+https://boxd.it/20gG,Transformers: Revenge of the Fallen,2009,Visti,Michael Bay,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/16aC,Transformers: Dark of the Moon,2011,Visti,Michael Bay,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1ZuW,Bad Boys II,2003,Visti,Michael Bay,Azione,Stati Uniti,Uomo
+https://boxd.it/29Ag,Lolita,1962,Visti,Stanley Kubrick,Dramma,Regno Unito,Uomo
+https://boxd.it/2bcA,Blade Runner,1982,Visti,Ridley Scott,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2aVE,A Clockwork Orange,1971,Visti,Stanley Kubrick,Fantascienza,Regno Unito,Uomo
+https://boxd.it/1zJ2,Season of the Witch,2011,Visti,Dominic Sena,Fantasy,Stati Uniti,Uomo
+https://boxd.it/2apI,Vertigo,1958,Visti,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/ftmE,It’s the Law,2017,Visti,Ficarra e Picone,Commedia,Italia,Uomo
+https://boxd.it/1XCu,The Siege,1998,Visti,Edward Zwick,Thriller,Stati Uniti,Uomo
+https://boxd.it/814o,London Has Fallen,2016,Visti,Babak Najafi,Azione,Stati Uniti,Uomo
+https://boxd.it/3TMY,Olympus Has Fallen,2013,Visti,Antoine Fuqua,Azione,Stati Uniti,Uomo
+https://boxd.it/eYfC,Angel Has Fallen,2019,Visti,Ric Roman Waugh,Azione,Stati Uniti,Uomo
+https://boxd.it/2ahO,The Seventh Seal,1957,Visti,Ingmar Bergman,Dramma,Svezia,Uomo
+https://boxd.it/29SY,Goldfinger,1964,Visti,Guy Hamilton,Azione,Regno Unito,Uomo
+https://boxd.it/6JxU,The SpongeBob Movie: Sponge Out of Water,2015,Visti,Paul Tibbitt,Animazione,Stati Uniti,Uomo
+https://boxd.it/3oAs,Teenage Mutant Ninja Turtles,2014,Visti,Jonathan Liebesman,Azione,Stati Uniti,Uomo
+https://boxd.it/9T2e,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,Visti,Dave Green,Azione,Stati Uniti,Uomo
+https://boxd.it/7eEi,Jinxed,2013,Visti,Neri Parenti,Commedia,Italia,Uomo
+https://boxd.it/8Wvm,The Journey Home,2014,Visti,,,,
+https://boxd.it/17z4,Fun Is Beautiful,1980,Visti,Carlo Verdone,Commedia,Italia,Uomo
+https://boxd.it/297o,Mulholland Drive,2001,Visti,David Lynch,Thriller,Stati Uniti,Uomo
+https://boxd.it/20BO,21,2008,Visti,Robert Luketic,Crime,Stati Uniti,Uomo
+https://boxd.it/2aqm,8½,1963,Visti,Federico Fellini,Dramma,Italia,Uomo
+https://boxd.it/2aG0,Casablanca,1942,Visti,Michael Curtiz,Romantico,Stati Uniti,Uomo
+https://boxd.it/27LQ,The Elephant Man,1980,Visti,David Lynch,Biografico,Stati Uniti,Uomo
+https://boxd.it/ecY,Christmas Present,1986,Visti,Pupi Avati,Dramma,Italia,Uomo
+https://boxd.it/zRNY,The Invite,2026,Visti,Olivia Wilde,Commedia,Stati Uniti,Donna
+https://boxd.it/251G,Gilda,1946,Visti,Charles Vidor,Thriller,Stati Uniti,Uomo
+https://boxd.it/3wQ4,Miracle of Marcellino,1991,Visti,Luigi Comencini,Dramma,Italia,Uomo
+https://boxd.it/25M8,His Girl Friday,1940,Visti,Howard Hawks,Commedia,Stati Uniti,Uomo
+https://boxd.it/20NA,Amarcord,1973,Visti,Federico Fellini,Commedia,Italia,Uomo
+https://boxd.it/2aDK,Notorious,1946,Visti,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/24my,G.I. Jane,1997,Visti,Ridley Scott,Azione,Stati Uniti,Uomo
+https://boxd.it/17xM,"Bianco, rosso e Verdone",1981,Visti,Carlo Verdone,Commedia,Italia,Uomo
+https://boxd.it/2wRE,Lawrence of Arabia,1962,Visti,David Lean,Storico,Regno Unito,Uomo
+https://boxd.it/cS4,Rise of the Planet of the Apes,2011,Visti,Rupert Wyatt,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/3XyQ,Dawn of the Planet of the Apes,2014,Visti,Matt Reeves,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/dYHY,A Bag of Marbles,2017,Visti,Christian Duguay,Guerra,Francia,Uomo
+https://boxd.it/LwDC,Digger,2026,Visti,Alejandro G. Iñárritu,Commedia,Stati Uniti,Uomo
+https://boxd.it/2aIK,Breathless,1960,Visti,Jean-Luc Godard,Crime,Francia,Uomo
+https://boxd.it/4Na2,Planes,2013,Visti,Klay Hall,Animazione,Stati Uniti,Uomo
+https://boxd.it/6uXI,Planes: Fire & Rescue,2014,Visti,Roberts Gannaway,Animazione,Stati Uniti,Uomo
+https://boxd.it/DUHM,One Battle After Another,2025,Visti,Paul Thomas Anderson,Thriller,Stati Uniti,Uomo
+https://boxd.it/lPBS,Megalopolis,2024,Visti,Francis Ford Coppola,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/29a8,The Philadelphia Story,1940,Visti,George Cukor,Commedia,Stati Uniti,Uomo
+https://boxd.it/29eY,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Visti,Stanley Kubrick,Commedia,Regno Unito,Uomo
+https://boxd.it/QPk,Rango,2011,Visti,Gore Verbinski,Animazione,Stati Uniti,Uomo
+https://boxd.it/1rfI,Nothing Left to Do But Cry,1984,Visti,Roberto Benigni & Massimo Troisi,Commedia,Italia,Uomo
+https://boxd.it/23hs,L'Avventura,1960,Visti,Michelangelo Antonioni,Dramma,Italia,Uomo
+https://boxd.it/gatS,The 15:17 to Paris,2018,Visti,Clint Eastwood,Biografico,Stati Uniti,Uomo
+https://boxd.it/7mVc,Millionaire Dog,2014,Visti,,,,
+https://boxd.it/2aQa,Rebecca,1940,Visti,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/bUeE,Jumanji: Welcome to the Jungle,2017,Visti,Jake Kasdan,Avventura,Stati Uniti,Uomo
+https://boxd.it/29A6,Night and Fog,1956,Visti,Alain Resnais,Documentario,Francia,Uomo
+https://boxd.it/28II,Touch of Evil,1958,Visti,Orson Welles,Crime,Stati Uniti,Uomo
+https://boxd.it/2ehy,Slap the Monster on Page One,1972,Visti,Marco Bellocchio,Dramma,Italia,Uomo
+https://boxd.it/6bXY,Spectre,2015,Visti,Sam Mendes,Azione,Regno Unito,Uomo
+https://boxd.it/20E4,Punch-Drunk Love,2002,Visti,Paul Thomas Anderson,Romantico,Stati Uniti,Uomo
+https://boxd.it/294O,The Thing,1982,Visti,John Carpenter,Horror,Stati Uniti,Uomo
+https://boxd.it/2966,Blow-Up,1966,Visti,Michelangelo Antonioni,Dramma,Regno Unito,Uomo
+https://boxd.it/QX5s,Primetime,2026,Visti,,,,
+https://boxd.it/29Ei,Grand Illusion,1937,Visti,Jean Renoir,Guerra,Francia,Uomo
+https://boxd.it/169a,Grown Ups,2010,Visti,Dennis Dugan,Commedia,Stati Uniti,Uomo
+https://boxd.it/29Qy,Harry Potter and the Prisoner of Azkaban,2004,Visti,Alfonso Cuarón,Fantasy,Regno Unito,Uomo
+https://boxd.it/5x3m,Night at the Museum: Secret of the Tomb,2014,Visti,Shawn Levy,Fantasy,Stati Uniti,Uomo
+https://boxd.it/1H7U,Night at the Museum: Battle of the Smithsonian,2009,Visti,Shawn Levy,Fantasy,Stati Uniti,Uomo
+https://boxd.it/29z8,Shrek 2,2004,Visti,Andrew Adamson,Animazione,Stati Uniti,Uomo
+https://boxd.it/9ALu,Toy Story 4,2019,Visti,Josh Cooley,Animazione,Stati Uniti,Uomo
+https://boxd.it/1QXg,Bolt,2008,Visti,Chris Williams,Animazione,Stati Uniti,Uomo
+https://boxd.it/1Xnu,Chicken Little,2005,Visti,Mark Dindal,Animazione,Stati Uniti,Uomo
+https://boxd.it/15gO,Tangled,2010,Visti,Nathan Greno,Animazione,Stati Uniti,Uomo
+https://boxd.it/1WYO,The Little Mermaid,1989,Visti,Ron Clements & John Musker,Animazione,Stati Uniti,Uomo
+https://boxd.it/2wRk,Ice Age: The Meltdown,2006,Visti,Carlos Saldanha,Animazione,Stati Uniti,Uomo
+https://boxd.it/3AD4,The Good Dinosaur,2015,Visti,Peter Sohn,Animazione,Stati Uniti,Uomo
+https://boxd.it/5jfy,Rio 2,2014,Visti,Carlos Saldanha,Animazione,Stati Uniti,Uomo
+https://boxd.it/1W2K,Madagascar: Escape 2 Africa,2008,Visti,Eric Darnell,Animazione,Stati Uniti,Uomo
+https://boxd.it/s9E,Alvin and the Chipmunks: Chipwrecked,2011,Visti,Mike Mitchell,Commedia,Stati Uniti,Uomo
+https://boxd.it/1Xos,Curious George,2006,Visti,Matthew O'Callaghan,Animazione,Stati Uniti,Uomo
+https://boxd.it/3r58,Captain America: The Winter Soldier,2014,Visti,Anthony & Joe Russo,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/aPvo,Frozen II,2019,Visti,Chris Buck,Animazione,Stati Uniti,Uomo
+https://boxd.it/1XhG,Beauty and the Beast,1991,Visti,Gary Trousdale,Animazione,Stati Uniti,Uomo
+https://boxd.it/LcIM,Fuze,2025,Visti,David Mackenzie,Thriller,Regno Unito,Uomo
+https://boxd.it/1o4s,Phenomena,1985,Visti,Dario Argento,Horror,Italia,Uomo
+https://boxd.it/2a6Q,Rear Window,1954,Visti,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/1YZE,Nineteen Eighty-Four,1984,Visti,Michael Radford,Fantascienza,Regno Unito,Uomo
+https://boxd.it/2aTS,Back to the Future Part III,1990,Visti,Robert Zemeckis,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/28TQ,Rambo: First Blood Part II,1985,Visti,George P. Cosmatos,Azione,Stati Uniti,Uomo
+https://boxd.it/28TG,Rambo III,1988,Visti,Peter MacDonald,Azione,Stati Uniti,Uomo
+https://boxd.it/27Z4,Pirates of the Caribbean: On Stranger Tides,2011,Visti,Rob Marshall,Avventura,Stati Uniti,Uomo
+https://boxd.it/jhxe,Midsommar,2019,Watchlist,Ari Aster,Horror,Stati Uniti,Uomo
+https://boxd.it/eCuA,Columbus,2017,Watchlist,Kogonada,Dramma,Stati Uniti,Uomo
+https://boxd.it/tNWU,Poor Things,2023,Watchlist,Yorgos Lanthimos,Commedia,Regno Unito,Uomo
+https://boxd.it/qeWY,Bugonia,2025,Watchlist,Yorgos Lanthimos,Commedia,Stati Uniti,Uomo
+https://boxd.it/7tnw,The Lobster,2015,Watchlist,Yorgos Lanthimos,Commedia,Irlanda,Uomo
+https://boxd.it/wFiI,Incantation,2022,Watchlist,Kevin Ko,Horror,Taiwan,Uomo
+https://boxd.it/Ecsg,Frankenstein,2025,Watchlist,Guillermo del Toro,Horror,Stati Uniti,Uomo
+https://boxd.it/dZ5G,The Killing of a Sacred Deer,2017,Watchlist,Yorgos Lanthimos,Thriller,Regno Unito,Uomo
+https://boxd.it/23AO,10 Things I Hate About You,1999,Watchlist,Gil Junger,Romantico,Stati Uniti,Uomo
+https://boxd.it/2anC,La Dolce Vita,1960,Watchlist,Federico Fellini,Dramma,Italia,Uomo
+https://boxd.it/2bdo,American History X,1998,Watchlist,Tony Kaye,Dramma,Stati Uniti,Uomo
+https://boxd.it/2ads,Casino,1995,Watchlist,Martin Scorsese,Crime,Stati Uniti,Uomo
+https://boxd.it/9GuY,Demolition,2015,Watchlist,Jean-Marc Vallée,Dramma,Stati Uniti,Uomo
+https://boxd.it/jUk4,Everything Everywhere All at Once,2022,Watchlist,Daniel Kwan & Daniel Scheinert,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2b6C,The Big Lebowski,1998,Watchlist,Joel & Ethan Coen,Commedia,Stati Uniti,Uomo
+https://boxd.it/2a38,The Conversation,1974,Watchlist,Francis Ford Coppola,Thriller,Stati Uniti,Uomo
+https://boxd.it/1F7e,Nights of Cabiria,1957,Watchlist,Federico Fellini,Dramma,Italia,Uomo
+https://boxd.it/2asi,La Strada,1954,Watchlist,Federico Fellini,Dramma,Italia,Uomo
+https://boxd.it/mL9M,Minari,2020,Watchlist,Lee Isaac Chung,Dramma,Stati Uniti,Uomo
+https://boxd.it/oyws,The Worst Person in the World,2021,Watchlist,Joachim Trier,Romantico,Norvegia,Uomo
+https://boxd.it/1Tj4,Following,1998,Watchlist,Christopher Nolan,Thriller,Regno Unito,Uomo
+https://boxd.it/KQMM,Sinners,2025,Watchlist,Ryan Coogler,Horror,Stati Uniti,Uomo
+https://boxd.it/1NTU,Harakiri,1962,Watchlist,Masaki Kobayashi,Storico,Giappone,Uomo
+https://boxd.it/2axi,Seven Samurai,1954,Watchlist,Akira Kurosawa,Azione,Giappone,Uomo
+https://boxd.it/28MA,The Departed,2006,Watchlist,Martin Scorsese,Crime,Stati Uniti,Uomo
+https://boxd.it/2cAo,Silence,2016,Watchlist,Martin Scorsese,Dramma,Stati Uniti,Uomo
+https://boxd.it/zqi,A Cat in Paris,2010,Watchlist,Jean-Loup Felicioli & Alain Gagnol,Animazione,Francia,Uomo
+https://boxd.it/2a5y,The Wild Bunch,1969,Watchlist,Sam Peckinpah,Western,Stati Uniti,Uomo
+https://boxd.it/29eO,The Pink Panther,1963,Watchlist,Blake Edwards,Commedia,Stati Uniti,Uomo
+https://boxd.it/1VnC,The Party,1968,Watchlist,Blake Edwards,Commedia,Stati Uniti,Uomo
+https://boxd.it/1UHQ,Blazing Saddles,1974,Watchlist,Mel Brooks,Commedia,Stati Uniti,Uomo
+https://boxd.it/1tDW,Continental Divide,1981,Watchlist,Michael Apted,Romantico,Stati Uniti,Uomo
+https://boxd.it/1RHI,The Big Chill,1983,Watchlist,Lawrence Kasdan,Commedia,Stati Uniti,Uomo
+https://boxd.it/2b84,Predator,1987,Watchlist,John McTiernan,Azione,Stati Uniti,Uomo
+https://boxd.it/gXGc,Uncut Gems,2019,Watchlist,Josh & Benny Safdie,Thriller,Stati Uniti,Uomo
+https://boxd.it/s3ds,Asteroid City,2023,Watchlist,Wes Anderson,Commedia,Stati Uniti,Uomo
+https://boxd.it/k4BO,The Brutalist,2024,Watchlist,Brady Corbet,Dramma,Stati Uniti,Uomo
+https://boxd.it/i4a,Midnight in Paris,2011,Watchlist,Woody Allen,Commedia,Stati Uniti,Uomo
+https://boxd.it/2a20,Sunset Boulevard,1950,Watchlist,Billy Wilder,Dramma,Stati Uniti,Uomo
+https://boxd.it/297I,Double Indemnity,1944,Watchlist,Billy Wilder,Crime,Stati Uniti,Uomo
+https://boxd.it/1N6S,Batman: Mask of the Phantasm,1993,Watchlist,Eric Radomski & Bruce Timm,Animazione,Stati Uniti,Uomo
+https://boxd.it/32hy,Play,2011,Watchlist,Ruben Östlund,Dramma,Svezia,Uomo
+https://boxd.it/PP4,The Fighter,2010,Watchlist,David O. Russell,Sport,Stati Uniti,Uomo
+https://boxd.it/1USu,Awakenings,1990,Watchlist,Penny Marshall,Dramma,Stati Uniti,Donna
+https://boxd.it/948A,The Handmaiden,2016,Watchlist,Park Chan-wook,Thriller,Corea del Sud,Uomo
+https://boxd.it/24EC,Scream,1996,Watchlist,Wes Craven,Horror,Stati Uniti,Uomo
+https://boxd.it/2a8W,Dogville,2003,Watchlist,Lars von Trier,Dramma,Danimarca,Uomo
+https://boxd.it/1GM8,Bronson,2008,Watchlist,Nicolas Winding Refn,Crime,Regno Unito,Uomo
+https://boxd.it/MxG,Blue Valentine,2010,Watchlist,Derek Cianfrance,Romantico,Stati Uniti,Uomo
+https://boxd.it/251c,Ikiru,1952,Watchlist,Akira Kurosawa,Dramma,Giappone,Uomo
+https://boxd.it/6hQu,Gone Girl,2014,Watchlist,David Fincher,Thriller,Stati Uniti,Uomo
+https://boxd.it/205e,Ali,2001,Watchlist,Michael Mann,Sport,Stati Uniti,Uomo
+https://boxd.it/1VZm,When We Were Kings,1996,Watchlist,Leon Gast,Documentario,Stati Uniti,Uomo
+https://boxd.it/29he,Cinderella Man,2005,Watchlist,Ron Howard,Sport,Stati Uniti,Uomo
+https://boxd.it/i3G,Warrior,2011,Watchlist,Gavin O'Connor,Sport,Stati Uniti,Uomo
+https://boxd.it/1Wmg,The Hurricane,1999,Watchlist,Norman Jewison,Sport,Stati Uniti,Uomo
+https://boxd.it/aRNY,Band of Brothers,2001,Watchlist,AA.VV.,Guerra,Stati Uniti,
+https://boxd.it/1Luy,A Brighter Summer Day,1991,Watchlist,Edward Yang,Dramma,Taiwan,Uomo
+https://boxd.it/dMG0,The Florida Project,2017,Watchlist,Sean Baker,Dramma,Stati Uniti,Uomo
+https://boxd.it/2agc,Reservoir Dogs,1992,Watchlist,Quentin Tarantino,Crime,Stati Uniti,Uomo
+https://boxd.it/2a2a,City of God,2002,Watchlist,Fernando Meirelles,Crime,Brasile,Uomo
+https://boxd.it/Xqc,A Special Day,1977,Watchlist,Ettore Scola,Dramma,Italia,Uomo
+https://boxd.it/20bG,Rocco and His Brothers,1960,Watchlist,Luchino Visconti,Dramma,Italia,Uomo
+https://boxd.it/1CI2,My Friends,1975,Watchlist,Mario Monicelli,Commedia,Italia,Uomo
+https://boxd.it/1RJE,I Vitelloni,1953,Watchlist,Federico Fellini,Dramma,Italia,Uomo
+https://boxd.it/2adW,Dial M for Murder,1954,Watchlist,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/29Fq,Gone with the Wind,1939,Watchlist,Victor Fleming,Romantico,Stati Uniti,Uomo
+https://boxd.it/yuDE,Anatomy of a Fall,2023,Watchlist,Justine Triet,Dramma,Francia,Donna
+https://boxd.it/21tc,Sabrina,1954,Watchlist,Billy Wilder,Romantico,Stati Uniti,Uomo
+https://boxd.it/1vXk,Ace in the Hole,1951,Watchlist,Billy Wilder,Dramma,Stati Uniti,Uomo
+https://boxd.it/1pgE,The Lost Weekend,1945,Watchlist,Billy Wilder,Dramma,Stati Uniti,Uomo
+https://boxd.it/2ap4,"One, Two, Three",1961,Watchlist,Billy Wilder,Commedia,Stati Uniti,Uomo
+https://boxd.it/29Xa,Stalag 17,1953,Watchlist,Billy Wilder,Guerra,Stati Uniti,Uomo
+https://boxd.it/2aCs,Once Upon a Time in America,1984,Watchlist,Sergio Leone,Crime,Italia,Uomo
+https://boxd.it/1w9q,Come and See,1985,Watchlist,Elem Klimov,Guerra,URSS,Uomo
+https://boxd.it/28xA,It's a Wonderful Life,1946,Watchlist,Frank Capra,Dramma,Stati Uniti,Uomo
+https://boxd.it/1wvm,Still Walking,2008,Watchlist,Hirokazu Kore-eda,Dramma,Giappone,Uomo
+https://boxd.it/1Fs2,A Pure Formality,1994,Watchlist,Giuseppe Tornatore,Thriller,Italia,Uomo
+https://boxd.it/1RSc,High and Low,1963,Watchlist,Akira Kurosawa,Crime,Giappone,Uomo
+https://boxd.it/2b6i,The Untouchables,1987,Watchlist,Brian De Palma,Crime,Stati Uniti,Uomo
+https://boxd.it/2aVO,Jackie Brown,1997,Watchlist,Quentin Tarantino,Crime,Stati Uniti,Uomo
+https://boxd.it/1Ty4,Crimes and Misdemeanors,1989,Watchlist,Woody Allen,Dramma,Stati Uniti,Uomo
+https://boxd.it/1VeU,The Purple Rose of Cairo,1985,Watchlist,Woody Allen,Commedia,Stati Uniti,Uomo
+https://boxd.it/29uC,Videodrome,1983,Watchlist,David Cronenberg,Horror,Canada,Uomo
+https://boxd.it/29VI,Requiem for a Dream,2000,Watchlist,Darren Aronofsky,Dramma,Stati Uniti,Uomo
+https://boxd.it/1HLA,Midnight Madness,1980,Watchlist,,Commedia,,
+https://boxd.it/29Nk,Short Cuts,1993,Watchlist,Robert Altman,Dramma,Stati Uniti,Uomo
+https://boxd.it/28ZY,The Host,2006,Watchlist,Bong Joon-ho,Horror,Corea del Sud,Uomo
+https://boxd.it/1m9g,Mother,2009,Watchlist,Bong Joon-ho,Thriller,Corea del Sud,Uomo
+https://boxd.it/1blA,Cure,1997,Watchlist,Kiyoshi Kurosawa,Thriller,Giappone,Uomo
+https://boxd.it/1VfS,After Hours,1985,Watchlist,Martin Scorsese,Commedia,Stati Uniti,Uomo
+https://boxd.it/TZdY,The Further Mis-Adventures of Cliff Booth,2026,Watchlist,David Fincher,Dramma,Stati Uniti,Uomo
+https://boxd.it/20hO,Superbad,2007,Watchlist,Greg Mottola,Commedia,Stati Uniti,Uomo
+https://boxd.it/211s,Equilibrium,2002,Watchlist,Kurt Wimmer,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1Tlu,Ran,1985,Watchlist,Akira Kurosawa,Storico,Giappone,Uomo
+https://boxd.it/1ROu,Dreams,1990,Watchlist,Akira Kurosawa,Fantasy,Giappone,Uomo
+https://boxd.it/251w,Throne of Blood,1957,Watchlist,Akira Kurosawa,Storico,Giappone,Uomo
+https://boxd.it/295M,The Hidden Fortress,1958,Watchlist,Akira Kurosawa,Avventura,Giappone,Uomo
+https://boxd.it/2aSU,Mean Streets,1973,Watchlist,Martin Scorsese,Crime,Stati Uniti,Uomo
+https://boxd.it/fA7G,Dune,2021,Watchlist,Denis Villeneuve,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/pUfA,Dune: Part Two,2024,Watchlist,Denis Villeneuve,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/b8wK,Blade Runner 2049,2017,Watchlist,Denis Villeneuve,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/Msm,Incendies,2010,Watchlist,Denis Villeneuve,Dramma,Canada,Uomo
+https://boxd.it/2F5O,End of Watch,2012,Watchlist,David Ayer,Crime,Stati Uniti,Uomo
+https://boxd.it/hNVe,Hereditary,2018,Watchlist,Ari Aster,Horror,Stati Uniti,Uomo
+https://boxd.it/BKN2,Amerikatsi,2022,Watchlist,Michael A. Goorjian,Dramma,Armenia,Uomo
+https://boxd.it/18YE,The Naked Gun: From the Files of Police Squad!,1988,Watchlist,David Zucker,Commedia,Stati Uniti,Uomo
+https://boxd.it/26o2,Journey to Italy,1954,Watchlist,Roberto Rossellini,Dramma,Italia,Uomo
+https://boxd.it/2aD6,"Rome, Open City",1945,Watchlist,Roberto Rossellini,Guerra,Italia,Uomo
+https://boxd.it/20FG,"Germany, Year Zero",1948,Watchlist,Roberto Rossellini,Dramma,Italia,Uomo
+https://boxd.it/1jAy,The Human Condition I: No Greater Love,1959,Watchlist,Masaki Kobayashi,Guerra,Giappone,Uomo
+https://boxd.it/1dIQ,The Human Condition III: A Soldier's Prayer,1961,Watchlist,Masaki Kobayashi,Guerra,Giappone,Uomo
+https://boxd.it/1dJa,The Human Condition II: Road to Eternity,1959,Watchlist,Masaki Kobayashi,Guerra,Giappone,Uomo
+https://boxd.it/24xc,Kikujiro,1999,Watchlist,Takeshi Kitano,Commedia,Giappone,Uomo
+https://boxd.it/1ZNE,Il Divo,2008,Watchlist,Paolo Sorrentino,Biografico,Italia,Uomo
+https://boxd.it/1UtY,Satyricon,1969,Watchlist,Federico Fellini,Dramma,Italia,Uomo
+https://boxd.it/1RSw,Accattone,1961,Watchlist,Pier Paolo Pasolini,Dramma,Italia,Uomo
+https://boxd.it/71a,Metropolis,1927,Watchlist,Fritz Lang,Fantascienza,Germania,Uomo
+https://boxd.it/D20,Profound Desires of the Gods,1968,Watchlist,Shōhei Imamura,Dramma,Giappone,Uomo
+https://boxd.it/1dfa,City Girl,1930,Watchlist,F.W. Murnau,Romantico,Stati Uniti,Uomo
+https://boxd.it/1bks,The Swindle,1955,Watchlist,Federico Fellini,Dramma,Italia,Uomo
+https://boxd.it/1SJg,City of Women,1980,Watchlist,Federico Fellini,Commedia,Italia,Uomo
+https://boxd.it/1sfY,Kids Return,1996,Watchlist,Takeshi Kitano,Dramma,Giappone,Uomo
+https://boxd.it/1z10,A Scene at the Sea,1991,Watchlist,Takeshi Kitano,Romantico,Giappone,Uomo
+https://boxd.it/2aHM,Fargo,1996,Watchlist,Joel & Ethan Coen,Crime,Stati Uniti,Uomo
+https://boxd.it/20lm,They Live,1988,Watchlist,John Carpenter,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1RFW,A Serious Man,2009,Watchlist,Joel & Ethan Coen,Commedia,Stati Uniti,Uomo
+https://boxd.it/1E1E,Deep Red,1975,Watchlist,Dario Argento,Horror,Italia,Uomo
+https://boxd.it/1Yoo,The Exorcist,1973,Watchlist,William Friedkin,Horror,Stati Uniti,Uomo
+https://boxd.it/29xw,Sleepers,1996,Watchlist,Barry Levinson,Crime,Stati Uniti,Uomo
+https://boxd.it/20ay,Paisan,1946,Watchlist,Roberto Rossellini,Guerra,Italia,Uomo
+https://boxd.it/29Wc,Lost Highway,1997,Watchlist,David Lynch,Thriller,Stati Uniti,Uomo
+https://boxd.it/1jl4,The Stranger,1967,Watchlist,Luchino Visconti,Dramma,Italia,Uomo
+https://boxd.it/29Ys,Easy Rider,1969,Watchlist,Dennis Hopper,Dramma,Stati Uniti,Uomo
+https://boxd.it/h0w,Kramer vs. Kramer,1979,Watchlist,Robert Benton,Dramma,Stati Uniti,Uomo
+https://boxd.it/1WwA,Night of the Living Dead,1968,Watchlist,George A. Romero,Horror,Stati Uniti,Uomo
+https://boxd.it/1U6g,The Dead Zone,1983,Watchlist,David Cronenberg,Thriller,Stati Uniti,Uomo
+https://boxd.it/28PO,Stalker,1979,Watchlist,Andrei Tarkovsky,Fantascienza,URSS,Uomo
+https://boxd.it/1VFG,Wall Street,1987,Watchlist,Oliver Stone,Dramma,Stati Uniti,Uomo
+https://boxd.it/29TM,Nosferatu,1922,Watchlist,F.W. Murnau,Horror,Germania,Uomo
+https://boxd.it/1NhQ,Coraline,2009,Watchlist,Henry Selick,Animazione,Stati Uniti,Uomo
+https://boxd.it/29Js,The Sixth Sense,1999,Watchlist,M. Night Shyamalan,Thriller,Stati Uniti,Uomo
+https://boxd.it/nK2s,The Northman,2022,Watchlist,Robert Eggers,Storico,Stati Uniti,Uomo
+https://boxd.it/1tRY,Investigation of a Citizen Above Suspicion,1970,Watchlist,Elio Petri,Crime,Italia,Uomo
+https://boxd.it/pCe,The Working Class Goes to Heaven,1971,Watchlist,Elio Petri,Dramma,Italia,Uomo
+https://boxd.it/4edg,Property Is No Longer a Theft,1973,Watchlist,Elio Petri,Commedia,Italia,Uomo
+https://boxd.it/1FtY,The Beyond,1981,Watchlist,Lucio Fulci,Horror,Italia,Uomo
+https://boxd.it/1wMs,City of the Living Dead,1980,Watchlist,Lucio Fulci,Horror,Italia,Uomo
+https://boxd.it/1oNi,The House by the Cemetery,1981,Watchlist,Lucio Fulci,Horror,Italia,Uomo
+https://boxd.it/10iU,La Notte,1961,Watchlist,Michelangelo Antonioni,Dramma,Italia,Uomo
+https://boxd.it/1CoG,L'Eclisse,1962,Watchlist,Michelangelo Antonioni,Dramma,Italia,Uomo
+https://boxd.it/1fdq,The Decameron,1971,Watchlist,Pier Paolo Pasolini,Commedia,Italia,Uomo
+https://boxd.it/22Ky,The Canterbury Tales,1972,Watchlist,Pier Paolo Pasolini,Commedia,Italia,Uomo
+https://boxd.it/KO6,Arabian Nights,1974,Watchlist,Pier Paolo Pasolini,Fantasy,Italia,Uomo
+https://boxd.it/29Os,The Bridges of Madison County,1995,Watchlist,Clint Eastwood,Romantico,Stati Uniti,Uomo
+https://boxd.it/FaK,I Saw the Devil,2010,Watchlist,Kim Jee-woon,Thriller,Corea del Sud,Uomo
+https://boxd.it/1G46,Angst,1983,Watchlist,Gerald Kargl,Horror,Austria,Uomo
+https://boxd.it/2z4g,Kill List,2011,Watchlist,Ben Wheatley,Horror,Regno Unito,Uomo
+https://boxd.it/VAa,The Servant,1963,Watchlist,Joseph Losey,Dramma,Regno Unito,Uomo
+https://boxd.it/2aMi,The Killing,1956,Watchlist,Stanley Kubrick,Crime,Stati Uniti,Uomo
+https://boxd.it/1vCw,Yi Yi,2000,Watchlist,Edward Yang,Dramma,Taiwan,Uomo
+https://boxd.it/1nSw,Le Trou,1960,Watchlist,Jacques Becker,Thriller,Francia,Uomo
+https://boxd.it/Gfc,Don't Torture a Duckling,1972,Watchlist,Lucio Fulci,Horror,Italia,Uomo
+https://boxd.it/1SNW,Suspiria,1977,Watchlist,Dario Argento,Horror,Italia,Uomo
+https://boxd.it/2aze,Magnolia,1999,Watchlist,Paul Thomas Anderson,Dramma,Stati Uniti,Uomo
+https://boxd.it/71O,Citizen Kane,1941,Watchlist,Orson Welles,Dramma,Stati Uniti,Uomo
+https://boxd.it/29tk,Strangers on a Train,1951,Watchlist,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/2aRM,North by Northwest,1959,Watchlist,Alfred Hitchcock,Thriller,Stati Uniti,Uomo
+https://boxd.it/2aUc,Amélie,2001,Watchlist,Jean-Pierre Jeunet,Romantico,Francia,Uomo
+https://boxd.it/2aeA,One Flew Over the Cuckoo's Nest,1975,Watchlist,Miloš Forman,Dramma,Stati Uniti,Uomo
+https://boxd.it/29bq,Spartacus,1960,Watchlist,Stanley Kubrick,Storico,Stati Uniti,Uomo
+https://boxd.it/2b8S,Léon: The Professional,1994,Watchlist,Luc Besson,Crime,Francia,Uomo
+https://boxd.it/8qZY,Legend,2015,Watchlist,Brian Helgeland,Crime,Regno Unito,Uomo
+https://boxd.it/5xtO,Enemy,2013,Watchlist,Denis Villeneuve,Thriller,Canada,Uomo
+https://boxd.it/1V8M,May,2002,Watchlist,Lucky McKee,Horror,Stati Uniti,Uomo
+https://boxd.it/2lDm,Election,2005,Watchlist,Johnnie To,Crime,Hong Kong,Uomo
+https://boxd.it/2wRu,Halloween,1978,Watchlist,John Carpenter,Horror,Stati Uniti,Uomo
+https://boxd.it/5EMS,The Prophet,1968,Watchlist,Dino Risi,Commedia,Italia,Uomo
+https://boxd.it/1BGE,A Prophet,2009,Watchlist,Jacques Audiard,Crime,Francia,Uomo
+https://boxd.it/evDg,The Fury of a Patient Man,2016,Watchlist,Raúl Arévalo,Thriller,Spagna,Uomo
+https://boxd.it/1Zks,Slither,2006,Watchlist,James Gunn,Horror,Stati Uniti,Uomo
+https://boxd.it/23Ls,La Collectionneuse,1967,Watchlist,Éric Rohmer,Dramma,Francia,Uomo
+https://boxd.it/1br4,The Ring,1927,Watchlist,Alfred Hitchcock,Sport,Regno Unito,Uomo
+https://boxd.it/223a,Bram Stoker's Dracula,1992,Watchlist,Francis Ford Coppola,Horror,Stati Uniti,Uomo
+https://boxd.it/KzLM,Longlegs,2024,Watchlist,Osgood Perkins,Horror,Stati Uniti,Uomo
+https://boxd.it/29w4,The Day the Earth Stood Still,1951,Watchlist,Robert Wise,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1MLK,The Sound of Music,1965,Watchlist,Robert Wise,Musical,Stati Uniti,Uomo
+https://boxd.it/1T7M,The Haunting,1963,Watchlist,Robert Wise,Horror,Stati Uniti,Uomo
+https://boxd.it/1W4Q,The Andromeda Strain,1971,Watchlist,Robert Wise,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1IYA,The Set-Up,1949,Watchlist,Robert Wise,Sport,Stati Uniti,Uomo
+https://boxd.it/2b1C,The 400 Blows,1959,Watchlist,François Truffaut,Dramma,Francia,Uomo
+https://boxd.it/25HC,The Searchers,1956,Watchlist,John Ford,Western,Stati Uniti,Uomo
+https://boxd.it/1Tdg,The Man Who Shot Liberty Valance,1962,Watchlist,John Ford,Western,Stati Uniti,Uomo
+https://boxd.it/297S,Stagecoach,1939,Watchlist,John Ford,Western,Stati Uniti,Uomo
+https://boxd.it/2a2u,The Grapes of Wrath,1940,Watchlist,John Ford,Dramma,Stati Uniti,Uomo
+https://boxd.it/25LE,My Darling Clementine,1946,Watchlist,John Ford,Western,Stati Uniti,Uomo
+https://boxd.it/29vU,Chinatown,1974,Watchlist,Roman Polanski,Crime,Stati Uniti,Uomo
+https://boxd.it/26pY,Z,1969,Watchlist,Costa-Gavras,Thriller,Francia,Uomo
+https://boxd.it/1TeS,Love and Death,1975,Watchlist,Woody Allen,Commedia,Stati Uniti,Uomo
+https://boxd.it/29ZU,Wild Strawberries,1957,Watchlist,Ingmar Bergman,Dramma,Svezia,Uomo
+https://boxd.it/25Lk,The Treasure of the Sierra Madre,1948,Watchlist,John Huston,Avventura,Stati Uniti,Uomo
+https://boxd.it/1Agq,Henry V,1944,Watchlist,Laurence Olivier,Storico,Regno Unito,Uomo
+https://boxd.it/29iG,The Bank Dick,1940,Watchlist,Edward F. Cline,Commedia,Stati Uniti,Uomo
+https://boxd.it/m7C,Roxie Hart,1942,Watchlist,William A. Wellman,Commedia,Stati Uniti,Uomo
+https://boxd.it/1AMQ,Hell's Angels,1930,Watchlist,Howard Hughes,Guerra,Stati Uniti,Uomo
+https://boxd.it/2aJS,The King of Comedy,1982,Watchlist,Martin Scorsese,Commedia,Stati Uniti,Uomo
+https://boxd.it/1vEW,La Belle Verte,1996,Watchlist,Coline Serreau,Commedia,Francia,Donna
+https://boxd.it/28ws,Primal Fear,1996,Watchlist,Gregory Hoblit,Thriller,Stati Uniti,Uomo
+https://boxd.it/252a,Onibaba,1964,Watchlist,Kaneto Shindo,Horror,Giappone,Uomo
+https://boxd.it/1nse,The Magician,1958,Watchlist,Ingmar Bergman,Dramma,Svezia,Uomo
+https://boxd.it/299u,Eraserhead,1977,Watchlist,David Lynch,Horror,Stati Uniti,Uomo
+https://boxd.it/g8pk,Twin Peaks,1989,Watchlist,David Lynch,Thriller,Stati Uniti,Uomo
+https://boxd.it/1ZTW,The Vanishing,1988,Watchlist,George Sluizer,Thriller,Paesi Bassi,Uomo
+https://boxd.it/1Xcc,Killer's Kiss,1955,Watchlist,Stanley Kubrick,Crime,Stati Uniti,Uomo
+https://boxd.it/23UY,Masculin Féminin,1966,Watchlist,Jean-Luc Godard,Dramma,Francia,Uomo
+https://boxd.it/25zS,Battle Royale,2000,Watchlist,Kinji Fukasaku,Azione,Giappone,Uomo
+https://boxd.it/23O2,Charade,1963,Watchlist,Stanley Donen,Thriller,Stati Uniti,Uomo
+https://boxd.it/2aRW,Arsenic and Old Lace,1944,Watchlist,Frank Capra,Commedia,Stati Uniti,Uomo
+https://boxd.it/1Qi8,Kes,1969,Watchlist,Ken Loach,Dramma,Regno Unito,Uomo
+https://boxd.it/2ahu,Being John Malkovich,1999,Watchlist,Spike Jonze,Commedia,Stati Uniti,Uomo
+https://boxd.it/27Qw,Twin Peaks: Fire Walk with Me,1992,Watchlist,David Lynch,Thriller,Stati Uniti,Uomo
+https://boxd.it/29BI,Blue Velvet,1986,Watchlist,David Lynch,Thriller,Stati Uniti,Uomo
+https://boxd.it/29XE,The Usual Suspects,1995,Watchlist,Bryan Singer,Crime,Stati Uniti,Uomo
+https://boxd.it/1W7A,Perfect Blue,1997,Watchlist,Satoshi Kon,Animazione,Giappone,Uomo
+https://boxd.it/2awY,Alien,1979,Watchlist,Ridley Scott,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/29zM,Rosemary's Baby,1968,Watchlist,Roman Polanski,Horror,Stati Uniti,Uomo
+https://boxd.it/29we,Diabolique,1955,Watchlist,Henri-Georges Clouzot,Thriller,Francia,Uomo
+https://boxd.it/icFU,The Lighthouse,2019,Watchlist,Robert Eggers,Horror,Stati Uniti,Uomo
+https://boxd.it/9X0m,The Witch,2015,Watchlist,Robert Eggers,Horror,Stati Uniti,Uomo
+https://boxd.it/igK,The Man Who Stole the Sun,1979,Watchlist,Kazuhiko Hasegawa,Thriller,Giappone,Uomo
+https://boxd.it/1Rio,Autumn Sonata,1978,Watchlist,Ingmar Bergman,Dramma,Svezia,Uomo
+https://boxd.it/29Ge,Evil Dead II,1987,Watchlist,Sam Raimi,Horror,Stati Uniti,Uomo
+https://boxd.it/H4O,Cosmopolis,2012,Watchlist,David Cronenberg,Dramma,Canada,Uomo
+https://boxd.it/1YIe,The Fly,1986,Watchlist,David Cronenberg,Horror,Stati Uniti,Uomo
+https://boxd.it/25ds,"Girl, Interrupted",1999,Watchlist,James Mangold,Dramma,Stati Uniti,Uomo
+https://boxd.it/b2L0,Manchester by the Sea,2016,Watchlist,Kenneth Lonergan,Dramma,Stati Uniti,Uomo
+https://boxd.it/V6u,Ulysses,1954,Watchlist,Mario Camerini,Avventura,Italia,Uomo
+https://boxd.it/2cBG,The Master,2012,Watchlist,Paul Thomas Anderson,Dramma,Stati Uniti,Uomo
+https://boxd.it/2a7u,Die Hard,1988,Watchlist,John McTiernan,Azione,Stati Uniti,Uomo
+https://boxd.it/2SVe,While There's War There's Hope,1974,Watchlist,Alberto Sordi,Commedia,Italia,Uomo
+https://boxd.it/8fsa,House of Pleasure for Women,1976,Watchlist,,,,
+https://boxd.it/23wi,American Gangster,2007,Watchlist,Ridley Scott,Crime,Stati Uniti,Uomo
+https://boxd.it/oNB8,Past Lives,2023,Watchlist,Celine Song,Romantico,Stati Uniti,Donna
+https://boxd.it/1HKs,Bleeder,1999,Watchlist,Nicolas Winding Refn,Dramma,Danimarca,Uomo
+https://boxd.it/1dy2,Enter the Void,2009,Watchlist,Gaspar Noé,Dramma,Francia,Uomo
+https://boxd.it/29Ik,V for Vendetta,2005,Watchlist,James McTeigue,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1S3E,Slumdog Millionaire,2008,Watchlist,Danny Boyle,Dramma,Regno Unito,Uomo
+https://boxd.it/1Mli,Army of Shadows,1969,Watchlist,Jean-Pierre Melville,Guerra,Francia,Uomo
+https://boxd.it/29RG,Central Station,1998,Watchlist,Walter Salles,Dramma,Brasile,Uomo
+https://boxd.it/mbY,Dangerous Days: Making Blade Runner,2007,Watchlist,Charles de Lauzirika,Documentario,Stati Uniti,Uomo
+https://boxd.it/2bcA,Blade Runner,1982,Watchlist,Ridley Scott,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/29TC,On the Waterfront,1954,Watchlist,Elia Kazan,Dramma,Stati Uniti,Uomo
+https://boxd.it/1Z5s,The Sting,1973,Watchlist,George Roy Hill,Crime,Stati Uniti,Uomo
+https://boxd.it/1BPm,Possession,1981,Watchlist,Andrzej Żuławski,Horror,Francia,Uomo
+https://boxd.it/29Hc,Gentlemen Prefer Blondes,1953,Watchlist,Howard Hawks,Musical,Stati Uniti,Uomo
+https://boxd.it/29iQ,The Big Sleep,1946,Watchlist,Howard Hawks,Crime,Stati Uniti,Uomo
+https://boxd.it/2aE4,Rio Bravo,1959,Watchlist,Howard Hawks,Western,Stati Uniti,Uomo
+https://boxd.it/29oa,Scarface,1932,Watchlist,Howard Hawks,Crime,Stati Uniti,Uomo
+https://boxd.it/1Am4,To Have and Have Not,1944,Watchlist,Howard Hawks,Thriller,Stati Uniti,Uomo
+https://boxd.it/25Lu,Red River,1948,Watchlist,Howard Hawks,Western,Stati Uniti,Uomo
+https://boxd.it/1ms8,Ball of Fire,1941,Watchlist,Howard Hawks,Commedia,Stati Uniti,Uomo
+https://boxd.it/2aOe,Stand by Me,1986,Watchlist,Rob Reiner,Dramma,Stati Uniti,Uomo
+https://boxd.it/29PA,Aliens,1986,Watchlist,James Cameron,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/2886,The Piano Teacher,2001,Watchlist,Michael Haneke,Dramma,Austria,Uomo
+https://boxd.it/1YUY,Kids,1995,Watchlist,Larry Clark,Dramma,Stati Uniti,Uomo
+https://boxd.it/158K,Dogtooth,2009,Watchlist,Yorgos Lanthimos,Dramma,Grecia,Uomo
+https://boxd.it/27Hk,Benny's Video,1992,Watchlist,Michael Haneke,Thriller,Austria,Uomo
+https://boxd.it/94Hg,The Nice Guys,2016,Watchlist,Shane Black,Crime,Stati Uniti,Uomo
+https://boxd.it/1X4i,Empire of the Sun,1987,Watchlist,Steven Spielberg,Guerra,Stati Uniti,Uomo
+https://boxd.it/1SYq,The SpongeBob SquarePants Movie,2004,Watchlist,Stephen Hillenburg,Animazione,Stati Uniti,Uomo
+https://boxd.it/5ty6,The Great Beauty,2013,Watchlist,Paolo Sorrentino,Dramma,Italia,Uomo
+https://boxd.it/1OTQ,Demons,1985,Watchlist,Lamberto Bava,Horror,Italia,Uomo
+https://boxd.it/27jW,The Driver,1978,Watchlist,Walter Hill,Crime,Stati Uniti,Uomo
+https://boxd.it/VZE,"Yesterday, Today and Tomorrow",1963,Watchlist,Vittorio De Sica,Commedia,Italia,Uomo
+https://boxd.it/Fs0,Marriage Italian Style,1964,Watchlist,Vittorio De Sica,Commedia,Italia,Uomo
+https://boxd.it/296K,The Leopard,1963,Watchlist,Luchino Visconti,Storico,Italia,Uomo
+https://boxd.it/1YV8,Fitzcarraldo,1982,Watchlist,Werner Herzog,Avventura,Germania,Uomo
+https://boxd.it/11ho,Lola,1961,Watchlist,Jacques Demy,Romantico,Francia,Uomo
+https://boxd.it/1KnQ,Fantastic Planet,1973,Watchlist,René Laloux,Animazione,Francia,Uomo
+https://boxd.it/Ody,Christmas Rematch,2004,Watchlist,Pupi Avati,Dramma,Italia,Uomo
+https://boxd.it/UQG,An American in Rome,1954,Watchlist,Steno,Commedia,Italia,Uomo
+https://boxd.it/QlO,Cops and Robbers,1951,Watchlist,Steno & Mario Monicelli,Commedia,Italia,Uomo
+https://boxd.it/1xLq,Big Deal on Madonna Street,1958,Watchlist,Mario Monicelli,Commedia,Italia,Uomo
+https://boxd.it/Cas,The Organizer,1963,Watchlist,Mario Monicelli,Dramma,Italia,Uomo
+https://boxd.it/1y8O,"Dearest Relatives, Poisonous Relations",1992,Watchlist,Mario Monicelli,Commedia,Italia,Uomo
+https://boxd.it/PWk,Boccaccio '70,1962,Watchlist,AA.VV.,Commedia,Italia,
+https://boxd.it/20cE,The Conformist,1970,Watchlist,Bernardo Bertolucci,Dramma,Italia,Uomo
+https://boxd.it/1Jrs,The Asphalt Jungle,1950,Watchlist,John Huston,Crime,Stati Uniti,Uomo
+https://boxd.it/251Q,The Lady from Shanghai,1947,Watchlist,Orson Welles,Crime,Stati Uniti,Uomo
+https://boxd.it/Ttw,Only Angels Have Wings,1939,Watchlist,Howard Hawks,Avventura,Stati Uniti,Uomo
+https://boxd.it/491E,Final Cut: Ladies and Gentlemen,2012,Watchlist,György Pálfi,Romantico,Ungheria,Uomo
+https://boxd.it/29u8,Close Encounters of the Third Kind,1977,Watchlist,Steven Spielberg,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/1Y8q,The Passenger,1975,Watchlist,Michelangelo Antonioni,Dramma,Italia,Uomo
+https://boxd.it/1ttW,Red Desert,1964,Watchlist,Michelangelo Antonioni,Dramma,Italia,Uomo
+https://boxd.it/FRwU,Juror #2,2024,Watchlist,Clint Eastwood,Thriller,Stati Uniti,Uomo
+https://boxd.it/lbJC,Last Night in Soho,2021,Watchlist,Edgar Wright,Horror,Regno Unito,Uomo
+https://boxd.it/ofS,We All Fall Down,1997,Watchlist,Davide Ferrario,Commedia,Italia,Uomo
+https://boxd.it/b0g,The Uncle from Brooklyn,1995,Watchlist,Ciprì & Maresco,Commedia,Italia,Uomo
+https://boxd.it/2a96,Bread and Tulips,2000,Watchlist,Silvio Soldini,Commedia,Italia,Uomo
+https://boxd.it/20oK,A Midsummer Night's Sex Comedy,1982,Watchlist,Woody Allen,Commedia,Stati Uniti,Uomo
+https://boxd.it/1Tye,Sleeper,1973,Watchlist,Woody Allen,Commedia,Stati Uniti,Uomo
+https://boxd.it/2FTE,The Terrace,1980,Watchlist,Ettore Scola,Dramma,Italia,Uomo
+https://boxd.it/XjK,We All Loved Each Other So Much,1974,Watchlist,Ettore Scola,Dramma,Italia,Uomo
+https://boxd.it/1y7Q,Il Sorpasso,1962,Watchlist,Dino Risi,Commedia,Italia,Uomo
+https://boxd.it/29sm,Brief Encounter,1945,Watchlist,David Lean,Romantico,Regno Unito,Uomo
+https://boxd.it/29wo,The Bridge on the River Kwai,1957,Watchlist,David Lean,Guerra,Regno Unito,Uomo
+https://boxd.it/29jk,Doctor Zhivago,1965,Watchlist,David Lean,Romantico,Stati Uniti,Uomo
+https://boxd.it/DPw,Summertime,1955,Watchlist,David Lean,Romantico,Regno Unito,Uomo
+https://boxd.it/1OjS,Great Expectations,1946,Watchlist,David Lean,Dramma,Regno Unito,Uomo
+https://boxd.it/1hRs,California Split,1974,Watchlist,Robert Altman,Commedia,Stati Uniti,Uomo
+https://boxd.it/SDaQ,La Bola Negra,2026,Watchlist,Javier Calvo & Javier Ambrossi,Dramma,Spagna,Uomo
+https://boxd.it/26j2,Pierrot le Fou,1965,Watchlist,Jean-Luc Godard,Crime,Francia,Uomo
+https://boxd.it/28s6,Vivre Sa Vie,1962,Watchlist,Jean-Luc Godard,Dramma,Francia,Uomo
+https://boxd.it/2aJe,Contempt,1963,Watchlist,Jean-Luc Godard,Dramma,Francia,Uomo
+https://boxd.it/1iUC,A Woman Is a Woman,1961,Watchlist,Jean-Luc Godard,Commedia,Francia,Uomo
+https://boxd.it/44PO,The Company of Strangers,1990,Watchlist,Cynthia Scott,Dramma,Canada,Donna
+https://boxd.it/WEC,Napoleon,1927,Watchlist,Abel Gance,Storico,Francia,Uomo
+https://boxd.it/1iqC,Il Posto,1961,Watchlist,Ermanno Olmi,Dramma,Italia,Uomo
+https://boxd.it/1iRI,The Tree of Wooden Clogs,1978,Watchlist,Ermanno Olmi,Dramma,Italia,Uomo
+https://boxd.it/18Im,The Graduate,1967,Watchlist,Mike Nichols,Commedia,Stati Uniti,Uomo
+https://boxd.it/28Oc,"sex, lies, and videotape",1989,Watchlist,Steven Soderbergh,Dramma,Stati Uniti,Uomo
+https://boxd.it/1PYs,Gaslight,1944,Watchlist,George Cukor,Thriller,Stati Uniti,Uomo
+https://boxd.it/25I6,A Star Is Born,1954,Watchlist,George Cukor,Musical,Stati Uniti,Uomo
+https://boxd.it/1Ks2,Holiday,1938,Watchlist,George Cukor,Commedia,Stati Uniti,Uomo
+https://boxd.it/27Xi,Guess Who's Coming to Dinner,1967,Watchlist,Stanley Kramer,Dramma,Stati Uniti,Uomo
+https://boxd.it/ImWe,Dune: Part Three,2026,Watchlist,Denis Villeneuve,Fantascienza,Stati Uniti,Uomo
+https://boxd.it/ykgU,Spider-Man: Beyond the Spider-Verse,2027,Watchlist,,Animazione,Stati Uniti,
+https://boxd.it/umDy,The Batman: Part II,2028,Watchlist,Matt Reeves,Cinecomic,Stati Uniti,Uomo
+https://boxd.it/29ki,City Lights,1931,Watchlist,Charlie Chaplin,Commedia,Stati Uniti,Uomo
+https://boxd.it/azpY,Spider-Man: Into the Spider-Verse,2018,Watchlist,Bob Persichetti,Animazione,Stati Uniti,Uomo
+https://boxd.it/T18,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975,Watchlist,Chantal Akerman,Dramma,Belgio,Donna
+https://boxd.it/29oY,Singin' in the Rain,1952,Watchlist,Stanley Donen & Gene Kelly,Musical,Stati Uniti,Uomo
+https://boxd.it/Lyo,One Way or Another,1976,Watchlist,,,,
+https://boxd.it/1Tje,The Best of Youth,2003,Watchlist,Marco Tullio Giordana,Dramma,Italia,Uomo
+https://boxd.it/otU,Dillinger Is Dead,1969,Watchlist,Marco Ferreri,Dramma,Italia,Uomo
+https://boxd.it/1AuM,The Women,1939,Watchlist,George Cukor,Commedia,Stati Uniti,Uomo
+https://boxd.it/K5A,Othello,1951,Watchlist,Orson Welles,Dramma,,Uomo
+https://boxd.it/22WY,Hiroshima Mon Amour,1959,Watchlist,Alain Resnais,Romantico,Francia,Uomo
+https://boxd.it/24Qe,Last Year at Marienbad,1961,Watchlist,Alain Resnais,Dramma,Francia,Uomo
+https://boxd.it/25MC,Modern Times,1936,Watchlist,Charlie Chaplin,Commedia,Stati Uniti,Uomo
+https://boxd.it/1ARc,Society,1989,Watchlist,Brian Yuzna,Horror,Stati Uniti,Uomo
+https://boxd.it/1qoa,Black Sabbath,1963,Watchlist,Mario Bava,Horror,Italia,Uomo
+https://boxd.it/7l4c,Creep,2014,Watchlist,Patrick Brice,Horror,Stati Uniti,Uomo
+https://boxd.it/1Zui,Twilight,2008,Watchlist,Catherine Hardwicke,Fantasy,Stati Uniti,Donna
+https://boxd.it/1Yyy,A Bug's Life,1998,Watchlist,John Lasseter,Animazione,Stati Uniti,Uomo
+https://boxd.it/1YzQ,The Nightmare Before Christmas,1993,Watchlist,Henry Selick,Animazione,Stati Uniti,Uomo
+https://boxd.it/aaie,Puss in Boots: The Last Wish,2022,Watchlist,Joel Crawford,Animazione,Stati Uniti,Uomo
+https://boxd.it/1j6y,Ivan's Childhood,1962,Watchlist,Andrei Tarkovsky,Guerra,URSS,Uomo
